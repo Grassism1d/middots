@@ -1,0 +1,1937 @@
+{
+   "checksum": "85ad394d990859145b38e2ee59e37a8a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13389740198000000",
+            "date_last_used": "0",
+            "guid": "023681d7-73a5-4352-8512-1e2d57e3be6c",
+            "id": "5",
+            "name": "[Gnome] New rice setup : r/unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/1jzxcyp/gnome_new_rice_setup/"
+         }, {
+            "date_added": "13389836534190196",
+            "date_last_used": "13392675155499115",
+            "guid": "56779e17-eea1-4302-833f-e0eb82302f7c",
+            "id": "22",
+            "name": "Cssd dl.cssd.ab.ca CCSD Distributed Learning: Login",
+            "type": "url",
+            "url": "https://dl.cssd.ab.ca/"
+         }, {
+            "date_added": "13389839755742674",
+            "date_last_used": "13392456102124504",
+            "guid": "26fe4655-de94-4899-b710-e3835b4a5b5b",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "unix",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/?rdt=36470"
+         }, {
+            "date_added": "13389964904550426",
+            "date_last_used": "13391936525576850",
+            "guid": "276ddec1-6f51-438e-a0c1-86a48f9b69f5",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "gsis",
+            "type": "url",
+            "url": "https://github.com/TrebleDroid/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13315174094000000",
+                  "date_last_used": "0",
+                  "guid": "ce80e6e1-a913-4da0-b08b-53ffe90fbfe9",
+                  "id": "30",
+                  "name": "SpotiFlyer",
+                  "type": "url",
+                  "url": "https://shabinder.github.io/SpotiFlyer/"
+               }, {
+                  "date_added": "13366931322000000",
+                  "date_last_used": "0",
+                  "guid": "7d1abc1d-b717-41d5-9f09-b51debf090c1",
+                  "id": "31",
+                  "name": "",
+                  "type": "url",
+                  "url": "https://www.wcofun.net/"
+               }, {
+                  "date_added": "13366885326000000",
+                  "date_last_used": "0",
+                  "guid": "fa76a1a9-fbc8-48b1-9be9-511734be4e3a",
+                  "id": "32",
+                  "name": "Remove Background from Image for Free – remove.bgRemove.bghttps://www.remove.bg",
+                  "type": "url",
+                  "url": "https://www.remove.bg/"
+               }, {
+                  "date_added": "13364534000000000",
+                  "date_last_used": "0",
+                  "guid": "53e53d9c-8d39-42ca-bbc9-4eae0688ea66",
+                  "id": "33",
+                  "name": "Homepage - Ascension Of Our Lord School",
+                  "type": "url",
+                  "url": "https://dl.cssd.ab.ca/d2l/home/254360"
+               }, {
+                  "date_added": "13282884938000000",
+                  "date_last_used": "0",
+                  "guid": "5278f301-5348-45b0-aa2c-acb510b5c95d",
+                  "id": "34",
+                  "name": "Equitable Group Benefits",
+                  "type": "url",
+                  "url": "https://www.equitablehealth.ca/cms/planmember/home"
+               }, {
+                  "date_added": "13282884949000000",
+                  "date_last_used": "0",
+                  "guid": "875eda83-198a-4e15-b67a-9b1fd5760c64",
+                  "id": "35",
+                  "name": "Ascension of Our Lord Conference Manager",
+                  "type": "url",
+                  "url": "https://ascension.schoolsoft.com/login.jsf"
+               }, {
+                  "date_added": "13282884959000000",
+                  "date_last_used": "13392541055303872",
+                  "guid": "51f0afc5-4d13-48b4-bcd3-4b54e30447d5",
+                  "id": "36",
+                  "name": "Open Future Learning Dashboard",
+                  "type": "url",
+                  "url": "https://www.openfuturelearning.org/index.cfm?fuseaction=home.main&CFID=28142208&CFTOKEN=74759b49b7e21ebf-BD998C4F-B293-6708-02CA6888DF923511"
+               }, {
+                  "date_added": "13378895207000000",
+                  "date_last_used": "0",
+                  "guid": "6eda83ef-417b-448a-8213-65e393d598e2",
+                  "id": "37",
+                  "name": "Customrombay.org",
+                  "type": "url",
+                  "url": "https://customrombay.org/"
+               }, {
+                  "date_added": "13364533991000000",
+                  "date_last_used": "0",
+                  "guid": "254e3662-0704-41d4-a744-39b68cf7275c",
+                  "id": "38",
+                  "name": "Homepage - Ascension Of Our Lord School",
+                  "type": "url",
+                  "url": "https://dl.cssd.ab.ca/d2l/home/254360"
+               }, {
+                  "date_added": "13365055541000000",
+                  "date_last_used": "0",
+                  "guid": "94e3f633-0801-46cd-8243-6efee3100a07",
+                  "id": "39",
+                  "name": "Google Takeout",
+                  "type": "url",
+                  "url": "https://takeout.google.com/settings/takeout"
+               }, {
+                  "date_added": "13366988102000000",
+                  "date_last_used": "0",
+                  "guid": "b046df90-e94a-44bf-a408-50dbade14362",
+                  "id": "40",
+                  "name": "Release LLVM 18.1.8 · llvm/llvm-project",
+                  "type": "url",
+                  "url": "https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.8"
+               }, {
+                  "date_added": "13366990201000000",
+                  "date_last_used": "0",
+                  "guid": "65b48c8c-4dc6-4c05-9738-966c26e76054",
+                  "id": "41",
+                  "name": "GD Song File Hub",
+                  "type": "url",
+                  "url": "https://songfilehub.com/home"
+               }, {
+                  "date_added": "13367407856000000",
+                  "date_last_used": "0",
+                  "guid": "6383fc84-21cf-4523-a3b4-b359fea8c07e",
+                  "id": "42",
+                  "name": "Search results for Box - Flaticon",
+                  "type": "url",
+                  "url": "https://www.flaticon.com/search?word=box"
+               }, {
+                  "date_added": "13367407968000000",
+                  "date_last_used": "0",
+                  "guid": "672c46b9-4057-4d89-b910-b09ebb55c87e",
+                  "id": "43",
+                  "name": "Html Editor v6.0.1 MOD APK (Premium Unlocked) Download",
+                  "type": "url",
+                  "url": "https://liteapks.com/html-editor-2.html"
+               }, {
+                  "date_added": "13379515133000000",
+                  "date_last_used": "0",
+                  "guid": "8c5556d3-5152-421f-90aa-b7670d309ebb",
+                  "id": "44",
+                  "name": "Download SM-A155F/Galaxy A15 SM-A155F (FWD) A155FXXU5BXK5 in Samfw - Samsung firmware download",
+                  "type": "url",
+                  "url": "https://samfw.com/firmware/SM-A155F/FWD/A155FXXU5BXK5"
+               }, {
+                  "date_added": "13379522045000000",
+                  "date_last_used": "0",
+                  "guid": "ff146455-060c-49b0-b93a-ede411151c0b",
+                  "id": "45",
+                  "name": "How to Install Evolution X GSI on Samsung Galaxy A15 (A155M/A155F) without TWRP – A Painless Guide (For the Gods of Android) : r/CustomROMsGuide",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/CustomROMsGuide/comments/1hfzwn2/how_to_install_evolution_x_gsi_on_samsung_galaxy/"
+               }, {
+                  "date_added": "13379597722000000",
+                  "date_last_used": "0",
+                  "guid": "e0415978-2329-4c99-bbf6-f6eda46f08a9",
+                  "id": "46",
+                  "name": "[UPDATED][RECOVERY][UNOFFICIAL]TWRP 3.6.2 for 2020 Galaxy Tab A7 10.4[SM-T500] | XDA Forums",
+                  "type": "url",
+                  "url": "https://xdaforums.com/t/updated-recovery-unofficial-twrp-3-6-2-for-2020-galaxy-tab-a7-10-4-sm-t500.4358595/"
+               } ],
+               "date_added": "13389993298173261",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "af25f14c-a375-42d7-89f9-d339421b6e22",
+               "id": "29",
+               "name": "Bookmarks bar",
+               "type": "folder"
+            }, {
+               "date_added": "13341808846000000",
+               "date_last_used": "0",
+               "guid": "fd77ba28-2a2b-4c71-a8d7-a69228adf394",
+               "id": "47",
+               "name": "GitHub - mrpond/BlockTheSpot: Video, audio & banner adblock/skip for Spotify",
+               "type": "url",
+               "url": "https://github.com/mrpond/BlockTheSpot"
+            }, {
+               "date_added": "13366613749000000",
+               "date_last_used": "0",
+               "guid": "058e1765-a3a6-43db-9322-4d6d51c796c6",
+               "id": "48",
+               "name": "127.0.0.1:3000/c:/Program Files/Git/ReleaseNotes.html",
+               "type": "url",
+               "url": "http://127.0.0.1:3000/c:/Program%20Files/Git/ReleaseNotes.html"
+            }, {
+               "date_added": "13366702352000000",
+               "date_last_used": "0",
+               "guid": "89365e3e-98c3-471e-9c10-ce7511299517",
+               "id": "49",
+               "name": "3.1. IDE Setup - Geode Docs",
+               "type": "url",
+               "url": "https://docs.geode-sdk.org/getting-started/ide-setup/#visual-studio"
+            }, {
+               "date_added": "13385880386000000",
+               "date_last_used": "0",
+               "guid": "85aefab8-f2b0-4ae7-9ce8-e0d5b048c8e7",
+               "id": "50",
+               "name": "Boot Animation Factory - Download",
+               "type": "url",
+               "url": "https://boot-animation-factory.en.lo4d.com/windows"
+            }, {
+               "date_added": "13316679321000000",
+               "date_last_used": "0",
+               "guid": "8b5bd375-9d1b-4af7-bd10-1ca79f3d0a95",
+               "id": "51",
+               "name": "Youtube Downloader - Online Youtube Video Downloader | YT1s.com",
+               "type": "url",
+               "url": "https://yt1s.com/en423"
+            }, {
+               "date_added": "13316820658000000",
+               "date_last_used": "0",
+               "guid": "dbf78e2a-183b-441a-b58a-39922e63daac",
+               "id": "52",
+               "name": "Tyler, The Creator on Amazon Music Unlimited",
+               "type": "url",
+               "url": "https://music.amazon.ca/artists/B004OW3P5W/tyler-the-creator"
+            }, {
+               "date_added": "13323834488000000",
+               "date_last_used": "0",
+               "guid": "9e4e6d33-ef25-47e8-96c7-2a99900b4aed",
+               "id": "53",
+               "name": "South Park Season 26 - Watch Cartoons and Anime Online in HD for Free",
+               "type": "url",
+               "url": "https://www.wcofun.com/anime/south-park-season-26"
+            }, {
+               "date_added": "13328413472000000",
+               "date_last_used": "0",
+               "guid": "849a3979-ae14-4fcc-b1ff-8052a85252e6",
+               "id": "54",
+               "name": "10+ Websites That Pay You: How To Get Paid Online [2023]",
+               "type": "url",
+               "url": "https://bloggingtips.com/websites-that-pay-you/#1_UpWork"
+            }, {
+               "date_added": "13330403644000000",
+               "date_last_used": "0",
+               "guid": "8de9eb31-51b5-452e-8b53-85c776aad1f8",
+               "id": "55",
+               "name": "Watch Spider-Man: Across the Spider-Verse Online Free on GOKU",
+               "type": "url",
+               "url": "https://goku.sx/watch-movie/watch-spider-man-into-the-spider-verse-sequel-66674/1349239"
+            }, {
+               "date_added": "13330403662000000",
+               "date_last_used": "0",
+               "guid": "397ced9f-3fcc-4c85-aa9a-51c57d562180",
+               "id": "56",
+               "name": "Watch Spider-Man: Across the Spider-Verse Full Movie on FMovies.to",
+               "type": "url",
+               "url": "https://ww4.fmovies.co/film/spider-man-across-the-spider-verse-1630855243/"
+            }, {
+               "date_added": "13335850651000000",
+               "date_last_used": "0",
+               "guid": "4882fab2-cc1b-4fa3-8bf5-01d2b287714a",
+               "id": "57",
+               "name": "Aniyomi",
+               "type": "url",
+               "url": "https://aniyomi.org/"
+            }, {
+               "date_added": "13335919265000000",
+               "date_last_used": "0",
+               "guid": "85810dc1-2dca-4148-b5f1-e8a3018f21d9",
+               "id": "58",
+               "name": "Cineplex.com | Shazam! Fury of the Gods - Family Favourites",
+               "type": "url",
+               "url": "https://www.cineplex.com/movie/shazam-fury-of-the-gods-family-favourites"
+            }, {
+               "date_added": "13335919269000000",
+               "date_last_used": "0",
+               "guid": "35aca275-fd4f-483d-86ac-f1281b3c55e7",
+               "id": "59",
+               "name": "how to update old android phone to latest version - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=how+to+update+old+android+phone+to+latest+version&oq=how+to+update+a+old+samsung+phone+to&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMgoIAhAAGIYDGIoFMgoIAxAAGIYDGIoFMgoIBBAAGIYDGIoFMgoIBRAAGIYDGIoF0gEKMjg5NzJqMGoxOagCALACAA&client=tablet-android-samsung-nf-rev1&sourceid=chrome-mobile&ie=UTF-8"
+            }, {
+               "date_added": "13323980125000000",
+               "date_last_used": "0",
+               "guid": "a23e35c4-e562-41ba-b369-9b2f872e22ab",
+               "id": "60",
+               "name": "SOAP2DAY",
+               "type": "url",
+               "url": "https://soap2day.to/"
+            }, {
+               "date_added": "13335938058000000",
+               "date_last_used": "0",
+               "guid": "d4b83ac4-2420-4228-9ba1-6b714bd11e2b",
+               "id": "61",
+               "name": "Enhance Speech from Adobe | Free AI filter for cleaning up spoken audio",
+               "type": "url",
+               "url": "https://podcast.adobe.com/enhance#"
+            }, {
+               "date_added": "13337695145000000",
+               "date_last_used": "0",
+               "guid": "25751f26-4974-42e9-96d7-9463e8a6efa5",
+               "id": "62",
+               "name": "rosmegas - Profile page - EroMe",
+               "type": "url",
+               "url": "https://www.erome.com/rosmegas"
+            }, {
+               "date_added": "13337695279000000",
+               "date_last_used": "0",
+               "guid": "0e005047-f043-4acd-892d-bf7447dabb83",
+               "id": "63",
+               "name": "Jenna Ortega NUDE Leaks (25 pictures) - Shooshtime",
+               "type": "url",
+               "url": "https://shooshtime.com/photos/206233/jenna-ortega-nude-leaks/"
+            }, {
+               "date_added": "13337825373000000",
+               "date_last_used": "0",
+               "guid": "ae3bce8b-275e-4902-9b58-6f4bda1c1354",
+               "id": "64",
+               "name": "7-Eleven: Rewards & Shopping 4.0.8 (arm64-v8a) (480-640dpi) (Android 9.0+) APK Download by 7-Eleven, Inc. - APKMirror",
+               "type": "url",
+               "url": "https://www.apkmirror.com/apk/7-eleven-inc/7-eleven-inc/7-eleven-inc-4-0-8-release/7-eleven-rewards-shopping-4-0-8-android-apk-download/"
+            }, {
+               "date_added": "13338956850000000",
+               "date_last_used": "0",
+               "guid": "fd9f3400-07d9-4ade-a1cf-77297d063325",
+               "id": "65",
+               "name": "182 Best Good Lock Alternatives and Similar Apps for Android - APKFab.com",
+               "type": "url",
+               "url": "https://apkfab.com/good-lock-premium-lock-screen/com.sonjoon.goodlock/alternatives"
+            }, {
+               "date_added": "13338956852000000",
+               "date_last_used": "0",
+               "guid": "c2a958cd-9342-40f8-9d24-cd18bee7d443",
+               "id": "66",
+               "name": "BT979 Bluetooth Earbud User Manual Sentry Industries limited",
+               "type": "url",
+               "url": "https://fccid.io/2ACP4BT979/User-Manual/User-Manual-4348824#google_vignette"
+            }, {
+               "date_added": "13338956857000000",
+               "date_last_used": "0",
+               "guid": "29a35f78-6eab-4a98-9c5b-438238c29d3b",
+               "id": "67",
+               "name": "BT979 Bluetooth Earbud User Manual Sentry Industries limited",
+               "type": "url",
+               "url": "https://fccid.io/2ACP4BT979/User-Manual/User-Manual-4348824"
+            }, {
+               "date_added": "13340261016000000",
+               "date_last_used": "0",
+               "guid": "48b16da6-bd23-4415-a704-e48de5322270",
+               "id": "68",
+               "name": "mega.nz/folder/n5wzHCAJ#8ttkFVJjIwNs4R8NL5qqlA/folder/a1Ym0CiL",
+               "type": "url",
+               "url": "https://mega.nz/folder/n5wzHCAJ#8ttkFVJjIwNs4R8NL5qqlA/folder/a1Ym0CiL"
+            }, {
+               "date_added": "13332720141000000",
+               "date_last_used": "0",
+               "guid": "a112384f-02f5-4b72-8a63-319d4024d72e",
+               "id": "69",
+               "name": "Heardle Unlimited",
+               "type": "url",
+               "url": "https://heardlegame.co/game/heardleu/"
+            }, {
+               "date_added": "13341867246000000",
+               "date_last_used": "0",
+               "guid": "f6b4dd56-42be-4647-bb9a-cd393dd2db1d",
+               "id": "70",
+               "name": "Watch Saw X (2023) Full HD Movie | YesMovies.to",
+               "type": "url",
+               "url": "https://ww.yesmovies.ag/movie/saw-x-1630855818.html"
+            }, {
+               "date_added": "13342054306000000",
+               "date_last_used": "0",
+               "guid": "089e91e5-eaad-4607-8ff7-6e9b130a4d9c",
+               "id": "71",
+               "name": "s2d2",
+               "type": "url",
+               "url": "https://soap2day.tf/home"
+            }, {
+               "date_added": "13343070206000000",
+               "date_last_used": "0",
+               "guid": "1654c4fa-d774-4240-9204-36b55a59da79",
+               "id": "72",
+               "name": "Video Converter | CloudConvert",
+               "type": "url",
+               "url": "https://cloudconvert.com/video-converter"
+            }, {
+               "date_added": "13344938686000000",
+               "date_last_used": "0",
+               "guid": "a648ba56-c102-4804-a9a0-63b97eb1ef94",
+               "id": "73",
+               "name": "Create an App from Website | Link to App Maker",
+               "type": "url",
+               "url": "https://appsgeyser.com/create-website-app/"
+            }, {
+               "date_added": "13346484411000000",
+               "date_last_used": "0",
+               "guid": "8b2ca4f4-0056-473b-b20a-70bf4ad0dbe3",
+               "id": "74",
+               "name": "Rhythm Heaven Fever ROM - WII Download - Emulator Games",
+               "type": "url",
+               "url": "https://www.emulatorgames.net/roms/nintendo-wii/rhythm-heaven-fever/"
+            }, {
+               "date_added": "13347379706000000",
+               "date_last_used": "0",
+               "guid": "7ba13c97-e709-47da-ae34-cf96e3fb136b",
+               "id": "75",
+               "name": "Survivor.io v2.4.1 MOD APK (Menu, Unlimited Ammo, Skills) Download",
+               "type": "url",
+               "url": "https://liteapks.com/download/survivor-io-27726"
+            }, {
+               "date_added": "13350777620000000",
+               "date_last_used": "0",
+               "guid": "c124c4b9-cfe9-47aa-b2f7-e3437b1a1556",
+               "id": "76",
+               "name": "Material Design Icons - Icon Library - Pictogrammers",
+               "type": "url",
+               "url": "https://pictogrammers.com/library/mdi/category/holiday/"
+            }, {
+               "date_added": "13351496413000000",
+               "date_last_used": "0",
+               "guid": "d87e6341-039a-4a39-9910-d442c238f816",
+               "id": "77",
+               "name": "AI Summarizing Tool: Free Summary Generator | Semrush",
+               "type": "url",
+               "url": "https://www.semrush.com/goodcontent/summary-generator/"
+            }, {
+               "date_added": "13351500740000000",
+               "date_last_used": "0",
+               "guid": "6036e868-457f-4059-ba18-a3b38f084df1",
+               "id": "78",
+               "name": "Smallpdf.com - A Free Solution to all your PDF Problems",
+               "type": "url",
+               "url": "https://smallpdf.com/"
+            }, {
+               "date_added": "13352952521000000",
+               "date_last_used": "0",
+               "guid": "23348643-b503-4ec9-b789-64d1880cc4e1",
+               "id": "79",
+               "name": "The Devil’s Arithmetic Study Guide | Literature Guide | LitCharts",
+               "type": "url",
+               "url": "https://www.litcharts.com/lit/the-devil-s-arithmetic"
+            }, {
+               "date_added": "13355092785000000",
+               "date_last_used": "0",
+               "guid": "0e53dff9-9be1-4390-b26a-5a2197f8f3c9",
+               "id": "80",
+               "name": "Singaporean Reddit Girl With Huge Tits and Wet Pussy (2/2) - EroMe",
+               "type": "url",
+               "url": "https://www.erome.com/a/L9KbCOlS"
+            }, {
+               "date_added": "13355455799000000",
+               "date_last_used": "0",
+               "guid": "f2a41be0-8d25-4a2d-bf08-baa69fcabed9",
+               "id": "81",
+               "name": "madzisstacked-busty expansion - Porn Videos & Photos - EroMe",
+               "type": "url",
+               "url": "https://www.erome.com/a/INJQJYMI"
+            }, {
+               "date_added": "13360458849000000",
+               "date_last_used": "0",
+               "guid": "9084f74d-9408-4165-8ca5-01456a00b718",
+               "id": "82",
+               "name": "GitHub - nyas1/Material-You-app-list: A well organized & frequently updated collection of apps that supports material you design/theme.",
+               "type": "url",
+               "url": "https://github.com/nyas1/Material-You-app-list"
+            }, {
+               "date_added": "13368493020000000",
+               "date_last_used": "0",
+               "guid": "0a2bce8e-ff13-440e-8a6c-8a6668f6065d",
+               "id": "83",
+               "name": "skinhub!",
+               "type": "url",
+               "url": "https://b9r.me/skins"
+            }, {
+               "date_added": "13369054791000000",
+               "date_last_used": "0",
+               "guid": "572b640b-619e-42a6-aed3-a5cc13117a4a",
+               "id": "84",
+               "name": "Grades and Attendance",
+               "type": "url",
+               "url": "https://sis.cssd.ab.ca/guardian/home.html"
+            }, {
+               "date_added": "13370091340000000",
+               "date_last_used": "0",
+               "guid": "526cb30b-3f4f-4b3d-8493-3cec35faf3c7",
+               "id": "85",
+               "name": "GitHub - fawazahmed0/Latest-adb-fastboot-installer-for-windows: A Simple Android Driver installer tool for windows (Always installs the latest version)",
+               "type": "url",
+               "url": "https://github.com/fawazahmed0/Latest-adb-fastboot-installer-for-windows"
+            }, {
+               "date_added": "13371460781000000",
+               "date_last_used": "0",
+               "guid": "1c176ad3-7f9e-4cdd-81e5-acdacaf58de9",
+               "id": "86",
+               "name": "TWRP 3.7.1 Released",
+               "type": "url",
+               "url": "https://twrp.me/site/update/2024/02/21/3.7.1-released.html"
+            }, {
+               "date_added": "13371619002000000",
+               "date_last_used": "0",
+               "guid": "9b070530-ae1e-431c-8a11-8c5381756fe8",
+               "id": "87",
+               "name": "NotebookLM",
+               "type": "url",
+               "url": "https://notebooklm.google.com/?_gl=1*4lf6my*_ga*MjE3NzY4MDc3LjE3MjcxNDUzNjg.*_ga_W0LDH41ZCB*MTcyNzE0NTM2Ny4xLjEuMTcyNzE0NTM3OS41MS4wLjA.&original_referer=https:%2F%2Fnotebooklm.google%23&pli=1"
+            }, {
+               "date_added": "13371992256000000",
+               "date_last_used": "0",
+               "guid": "4bab5e2d-6ad5-4d53-9bfb-4c797cb3ae99",
+               "id": "88",
+               "name": "o",
+               "type": "url",
+               "url": "https://www.reddit.com/r/Classof09Game/comments/1fnepxt/discussion_thread_class_of_09_the_flip_side/"
+            }, {
+               "date_added": "13376395847000000",
+               "date_last_used": "0",
+               "guid": "ccfe5b28-7b01-43ee-bbef-032acfc6b36d",
+               "id": "89",
+               "name": "Digitizer Vitre Tactile LCD Display Touch Screen Replacement Compatible with Motorola Moto G Stylus (2020) XT2043 6.4 inch : Amazon.ca: Electronics",
+               "type": "url",
+               "url": "https://www.amazon.ca/Digitizer-Tactile-Replacement-Compatible-Motorola/dp/B08GR6F7GS/ref=asc_df_B08GR6F7GS/?tag=googleshopc0c-20&linkCode=df0&hvadid=706761368569&hvpos=&hvnetw=g&hvrand=13679272169021648794&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001337&hvtargid=pla-2300711186138&psc=1&mcid=7b9db65018bc34afb51ad8d7cc1b6537&gad_source=1"
+            }, {
+               "date_added": "13376557457000000",
+               "date_last_used": "0",
+               "guid": "0f44115e-d833-49fe-b0a2-4f782ad4e8bd",
+               "id": "90",
+               "name": "blinkie maker | generate blinkie gifs with custom text!",
+               "type": "url",
+               "url": "https://blinkies.cafe/"
+            }, {
+               "date_added": "13376824600000000",
+               "date_last_used": "0",
+               "guid": "d687d50e-c954-416d-8254-6b7543376e94",
+               "id": "91",
+               "name": "How To Root Galaxy A03 Using Magisk COMPLETE Tutorial - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=eB9HVZjHBq0&t=1010s"
+            }, {
+               "date_added": "13377755678000000",
+               "date_last_used": "0",
+               "guid": "5509ed32-16df-43a4-8354-2a9dfc8f7dc0",
+               "id": "92",
+               "name": "Chat with all of your Course Materials | Unstuck AI",
+               "type": "url",
+               "url": "https://unstuckstudy.com/"
+            }, {
+               "date_added": "13378083458000000",
+               "date_last_used": "0",
+               "guid": "e6e4c292-18d1-4be0-8471-db5043d4258a",
+               "id": "93",
+               "name": "[Guide][SM-T500/T505] Galaxy Tab A7 10.4 - Unlock Bootloader & Root with Magisk | XDA Forums",
+               "type": "url",
+               "url": "https://xdaforums.com/t/guide-sm-t500-t505-galaxy-tab-a7-10-4-unlock-bootloader-root-with-magisk.4185993/"
+            }, {
+               "date_added": "13378122459000000",
+               "date_last_used": "0",
+               "guid": "dc7f5c2d-fb08-4a16-8798-25a899cddfc8",
+               "id": "94",
+               "name": "Download Galaxy A03 Core SM-A032M (BVO) A032MUBS4CXI2 in Samfw - Samsung firmware download",
+               "type": "url",
+               "url": "https://samfw.com/firmware/SM-A032M/BVO/A032MUBS4CXI2"
+            }, {
+               "date_added": "13378459382000000",
+               "date_last_used": "0",
+               "guid": "05c96445-8eb8-417a-89fd-17e09a59d1f9",
+               "id": "95",
+               "name": "Samsung Galaxy A15 4G",
+               "type": "url",
+               "url": "https://twrp.me/samsung/samsunggalaxya154g.html"
+            }, {
+               "date_added": "13378477483000000",
+               "date_last_used": "0",
+               "guid": "817c0560-28df-40a4-9af9-c255a1989151",
+               "id": "96",
+               "name": "for Samsung Galaxy Z Fold 4 Case: Slim Shockproof Protective Phone Case for Galaxy Z Fold 4 5G (Black) : Amazon.ca: Electronics",
+               "type": "url",
+               "url": "https://www.amazon.ca/Samsung-Galaxy-Fold-Case-Shockproof/dp/B0B7S34C89/ref=sr_1_9?dib=eyJ2IjoiMSJ9.6sp7xfYCkwDn_pgazk9mx1ogow5lCZbJixl344oGQkkQmlPJbI9s7ng8ibd43N8MYGFwPRoZDvecLdwJYGk8QQ_n-BOAxHabz2pFlYeFkSD-dalP-N8dkFEZmwL8UOGqvvcJHpuXg4htlZTvKhKtC2pJ3LYpf66qHxwcD2A1MaMQexd4rf1tnxCqkNl5tNmUsjZ4lfyHVsyH4MZ4ExOrX4EEKQjnecykDdgOoM1zZzBe_8MiG630SYdiNH35pnJDUWcuLmRPU_h7f4gjwygxUyhzNqxm-PB0R8FCuiYlUd0Qx69Qqw8Ej32WVFenMF9I2mCSRv69W1Sn2eIYnbPH1Cbh8tSSmxiitWZAHtxfJacoJCAborqovJSSJY-errDyxMO2UO5LWVWDkBKWm087nCw3otN0-xqjPetpdehSFvcLCOMLUXlhPe0vnBS5C-_o.NA2kq04EtBnLYirbo7KX1Bm8N4L_5_tHaqAovIwLb4s&dib_tag=se&keywords=z%2Bfold%2B4%2Bcase&qid=1734003409&sr=8-9&th=1"
+            }, {
+               "date_added": "13378542492000000",
+               "date_last_used": "0",
+               "guid": "eb7b6dde-5499-42bd-b0d3-21d3fb547949",
+               "id": "97",
+               "name": "[ROM][14][U][SM-T500][GTA4LWIFI] crDroid v10.2 Vanilla [UNOFFICIAL] for Samsung Galaxy Tab A7 2020 | XDA Forums",
+               "type": "url",
+               "url": "https://xdaforums.com/t/rom-14-u-sm-t500-gta4lwifi-crdroid-v10-2-vanilla-unofficial-for-samsung-galaxy-tab-a7-2020.4656943/"
+            }, {
+               "date_added": "13378562073000000",
+               "date_last_used": "0",
+               "guid": "28089e04-8417-4db6-9b3a-b40d9f019844",
+               "id": "98",
+               "name": "[SM-T505,T500,T507] [Android 14] Samsung Galaxy Tab A7 LTE GSI flashing guide | XDA Forums",
+               "type": "url",
+               "url": "https://xdaforums.com/t/sm-t505-t500-t507-android-14-samsung-galaxy-tab-a7-lte-gsi-flashing-guide.4423297/"
+            }, {
+               "date_added": "13378606314000000",
+               "date_last_used": "0",
+               "guid": "b5fbc213-a425-4199-88e0-ae706c7c777a",
+               "id": "99",
+               "name": "Matrixx ROM",
+               "type": "url",
+               "url": "https://www.projectmatrixx.org/downloads/gta4lwifi"
+            }, {
+               "date_added": "13378607174000000",
+               "date_last_used": "0",
+               "guid": "a358ae49-bc10-4122-8d8f-8008a5885351",
+               "id": "100",
+               "name": "[ TUTORIAL ] Cómo instalar una ROM GSI - HTCMania",
+               "type": "url",
+               "url": "https://www.htcmania.com/showthread.php?t=1550469"
+            }, {
+               "date_added": "13379739840000000",
+               "date_last_used": "0",
+               "guid": "8faf758b-65a5-4f0d-911f-ec4e37a6a09b",
+               "id": "101",
+               "name": "[MAGISK] Pixelify | XDA Forums",
+               "type": "url",
+               "url": "https://xdaforums.com/t/magisk-pixelify.4415387/"
+            }, {
+               "date_added": "13379748129000000",
+               "date_last_used": "0",
+               "guid": "1e2864e1-eb89-431b-9908-f64a6fafba54",
+               "id": "102",
+               "name": "Initial Installation of Magisk v24 - patch boot.img | XDA Forums",
+               "type": "url",
+               "url": "https://xdaforums.com/t/initial-installation-of-magisk-v24-patch-boot-img.4394635/"
+            }, {
+               "date_added": "13379771363000000",
+               "date_last_used": "0",
+               "guid": "3559cea9-a578-4b5b-ae20-0c3ffb1d44de",
+               "id": "103",
+               "name": "GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.",
+               "type": "url",
+               "url": "https://pages.github.com/"
+            }, {
+               "date_added": "13379781899000000",
+               "date_last_used": "0",
+               "guid": "d3de6cb7-9d5a-4aaf-b398-d78ca3dd2256",
+               "id": "104",
+               "name": "Installation | Magisk",
+               "type": "url",
+               "url": "https://topjohnwu.github.io/Magisk/install.html"
+            }, {
+               "date_added": "13379908901000000",
+               "date_last_used": "0",
+               "guid": "c486d359-7e5e-429a-b921-8dd29dd50c8d",
+               "id": "105",
+               "name": "Install LineageOS on gta4lwifi | LineageOS Wiki",
+               "type": "url",
+               "url": "https://wiki.lineageos.org/devices/gta4lwifi/install/#installing-lineage-recovery-using-odin"
+            }, {
+               "date_added": "13379942016000000",
+               "date_last_used": "0",
+               "guid": "74447c10-ace9-451a-ad66-22b33391c0f4",
+               "id": "106",
+               "name": "Generic System Image (GSI) list - phhusson",
+               "type": "url",
+               "url": "https://magiskzip.com/gsi-list-phhusson/#How-to-Check-if-Your-Phone-Supports-Project-Treble"
+            }, {
+               "date_added": "13379947765000000",
+               "date_last_used": "0",
+               "guid": "48238237-f85f-46f5-8e8a-d3f18e7bbcae",
+               "id": "107",
+               "name": "[Fastboot] Invalid sparse file format at header magic. How to fix? | XDA Forums",
+               "type": "url",
+               "url": "https://xdaforums.com/t/fastboot-invalid-sparse-file-format-at-header-magic-how-to-fix.4281719/"
+            }, {
+               "date_added": "13380055761000000",
+               "date_last_used": "0",
+               "guid": "22948f43-ae25-478b-9345-9c1f4d2d3ce8",
+               "id": "108",
+               "name": "Index of /mirror/archlinux.org/iso/2024.12.01/",
+               "type": "url",
+               "url": "https://mirror.cpsc.ucalgary.ca/mirror/archlinux.org/iso/2024.12.01/"
+            }, {
+               "date_added": "13380138980000000",
+               "date_last_used": "0",
+               "guid": "269b972d-82c8-453b-a50f-b2bd4ebe81a7",
+               "id": "109",
+               "name": "Samsung Galaxy A15 4g kernel & root (A155) | XDA Forums",
+               "type": "url",
+               "url": "https://xdaforums.com/t/samsung-galaxy-a15-4g-kernel-root-a155.4668912/"
+            }, {
+               "date_added": "13382076345000000",
+               "date_last_used": "0",
+               "guid": "851ae3fa-e848-4c30-8307-3271ed808e4f",
+               "id": "110",
+               "name": "Releases · naz664/crDroid_gsi",
+               "type": "url",
+               "url": "https://github.com/naz664/crDroid_gsi/releases"
+            }, {
+               "date_added": "13383572953000000",
+               "date_last_used": "0",
+               "guid": "cbe97832-0edb-4061-a82c-7f80698ecf33",
+               "id": "111",
+               "name": "Generic System Image (GSI) list · phhusson/treble_experimentations Wiki · GitHub",
+               "type": "url",
+               "url": "https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list"
+            }, {
+               "date_added": "13386023682000000",
+               "date_last_used": "0",
+               "guid": "28d30877-8044-44c9-8a12-b637860adb18",
+               "id": "112",
+               "name": "[CLOSED] [GUIDE] [how to] CREATE OWN ROM [FOR ANY ANDROID DEVICE] [FOR N00B] [EASIEST METHODS] | XDA Forums",
+               "type": "url",
+               "url": "https://xdaforums.com/t/closed-guide-how-to-create-own-rom-for-any-android-device-for-n00b-easiest-methods.1801690/"
+            }, {
+               "date_added": "13386041109000000",
+               "date_last_used": "0",
+               "guid": "2fa7e1e4-3cfd-444f-be6f-6d3e7e5ed26b",
+               "id": "113",
+               "name": "Magisk Modules Repo - #1 Trusted Source Of the Best Modules - Androidacy",
+               "type": "url",
+               "url": "https://www.androidacy.com/magisk-modules-repository/"
+            }, {
+               "date_added": "13386452121000000",
+               "date_last_used": "0",
+               "guid": "6c7432f8-e838-4001-b389-cfa74b1e1156",
+               "id": "114",
+               "name": "ChatGPT",
+               "type": "url",
+               "url": "https://chatgpt.com/"
+            }, {
+               "date_added": "13386662491000000",
+               "date_last_used": "0",
+               "guid": "ef4b4ff1-887b-4d09-8ae2-a77152012383",
+               "id": "115",
+               "name": "Please Confirm Your Order - AliExpress",
+               "type": "url",
+               "url": "https://www.aliexpress.com/p/trade/confirm.html?objectId=1005008634964059&from=aliexpress&countryCode=CA&shippingCompany=CAINIAO_FULFILLMENT_STD&provinceCode=903765660000000000&cityCode=903765666765000000&aeOrderFrom=main_detail&skuAttr=14%3A1202%23TFT%20No%20Frame&skuId=12000046049529735&skucustomAttr=&quantity=1&spm=a2g0o.detail.0.0&curPageLogUid=1742188802611_op2UbZ&pdpBuyParams=%7B%7D"
+            }, {
+               "date_added": "13387092741000000",
+               "date_last_used": "0",
+               "guid": "50a9e35b-563a-4589-925c-8b893388c49e",
+               "id": "116",
+               "name": "MIUI 13 [Crystallization] live wallpapers - pling.com",
+               "type": "url",
+               "url": "https://www.pling.com/p/1674117"
+            } ],
+            "date_added": "13389993298171975",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "b58b1975-8a81-4782-8888-7f92ba7a31a0",
+            "id": "28",
+            "name": "Imported",
+            "type": "folder"
+         }, {
+            "date_added": "13390035686284530",
+            "date_last_used": "0",
+            "guid": "04c9f539-f2c0-42fd-969b-0a6769bab614",
+            "id": "118",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "taba7",
+            "type": "url",
+            "url": "https://samfw.com/firmware/SM-T500"
+         }, {
+            "date_added": "13390116011776906",
+            "date_last_used": "0",
+            "guid": "c0d6c608-960a-439b-9234-e29321d08c9a",
+            "id": "120",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gemini",
+            "type": "url",
+            "url": "https://gemini.google.com/app"
+         }, {
+            "date_added": "13390122811717047",
+            "date_last_used": "0",
+            "guid": "6b7051f3-45fd-4115-8353-6d0843aeb19e",
+            "id": "121",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OneDrive",
+            "type": "url",
+            "url": "https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9iZjI5M2I3OTllNjUwNjg0L0VVdkpJdlE2RjFsR2paa3h0UXpCRkZVQlhFby1Wd3JlcUNNVlU0YWhpdEpSV2c%5FZT01b054TEI&cid=BF293B799E650684&id=BF293B799E650684%21sf422c94b173a46598d9931b50cc11455&parId=BF293B799E650684%21sd27e8ea90a1d4be4b92fee2df398e5e2&o=OneUp"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13390917547000000",
+                     "date_last_used": "0",
+                     "guid": "62e25bd9-329c-49ba-a7e0-8dc21d1c9aff",
+                     "id": "126",
+                     "name": "AliExpress",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bookmark/go/?id=464e77633a9ee394de72"
+                  }, {
+                     "date_added": "13390917550000000",
+                     "date_last_used": "0",
+                     "guid": "296f7c10-5054-48e9-b7e0-f3aed17ea7fb",
+                     "id": "127",
+                     "name": "(1) [FULL STOCK] [A15FF] OneUI 7 for the Samsung Galaxy A15 + Galaxy AI Module (4g only) | XDA Forums",
+                     "type": "url",
+                     "url": "https://xdaforums.com/t/full-stock-a15ff-oneui-7-for-the-samsung-galaxy-a15-galaxy-ai-module-4g-only.4731600/"
+                  }, {
+                     "date_added": "13390917554000000",
+                     "date_last_used": "0",
+                     "guid": "597b5cfc-9d84-4f76-8411-e556ebaf462c",
+                     "id": "128",
+                     "name": "STEAMUNLOCKED » Free Steam Games Pre-installed for PC",
+                     "type": "url",
+                     "url": "https://steamunlocked.net/"
+                  }, {
+                     "date_added": "13390917557000000",
+                     "date_last_used": "0",
+                     "guid": "48869632-8bec-4d09-8f75-20d4ee568fe1",
+                     "id": "129",
+                     "name": "Inbox (3,698) - luvurselfidk@gmail.com - Gmail",
+                     "type": "url",
+                     "url": "https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1&authuser=0#inbox"
+                  } ],
+                  "date_added": "13391165461020072",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "f611cc26-c9f4-4524-bfac-4e0700f13655",
+                  "id": "125",
+                  "name": "Home",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "6cdc945e-fed2-4828-a3a5-e0224d8d917d",
+                     "id": "131",
+                     "name": "Amazon",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/amazon-ca"
+                  }, {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "fce90939-9a13-4f69-bf2a-f1e5be185402",
+                     "id": "132",
+                     "name": "eBay",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/ebay-ca"
+                  }, {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "21bf0c0d-749c-4b3f-a925-79e535378258",
+                     "id": "133",
+                     "name": "AliExpress",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/aliexpress-ca"
+                  }, {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "641659d4-7e69-4c56-bf92-32d2c29c606c",
+                     "id": "134",
+                     "name": "Eneba",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/eneba-en-ca"
+                  }, {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "5a97d47b-964b-414d-aa3f-705bb6a835c0",
+                     "id": "135",
+                     "name": "Temu",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/sd-temu"
+                  }, {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "31d182e9-fa59-4c91-b0ad-85f57c3f9734",
+                     "id": "136",
+                     "name": "SHEIN",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/sd-shein"
+                  } ],
+                  "date_added": "13391165461020770",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "95760175-1af1-4432-b67e-0c606578e99f",
+                  "id": "130",
+                  "name": "Shopping",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "433b3f31-e710-4b0c-a93a-f76cd88e8eb4",
+                     "id": "138",
+                     "name": "Booking.com",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/booking-ca"
+                  }, {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "0fd21339-cef8-40e0-9b92-c8e7285203ee",
+                     "id": "139",
+                     "name": "Kayak",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/kayak-en-ca"
+                  } ],
+                  "date_added": "13391165461021538",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "03723712-d0a9-42af-b653-8f74466732c3",
+                  "id": "137",
+                  "name": "Travel",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13390575214000000",
+                     "date_last_used": "0",
+                     "guid": "3ac58516-d440-4ec6-8394-7bab1f80fd33",
+                     "id": "141",
+                     "name": "Linux / macOS • freemediaheckyeah",
+                     "type": "url",
+                     "url": "https://fmhy.net/linuxguide"
+                  }, {
+                     "children": [ {
+                        "date_added": "13390123293000000",
+                        "date_last_used": "0",
+                        "guid": "fbc83864-a0f9-44aa-a211-864e1555908a",
+                        "id": "143",
+                        "name": "Vivaldi Features",
+                        "type": "url",
+                        "url": "https://vivaldi.com/bk/sd-browser-features"
+                     }, {
+                        "date_added": "13390123293000000",
+                        "date_last_used": "0",
+                        "guid": "e044393c-99ab-43d1-964f-5fa0f2516ecf",
+                        "id": "144",
+                        "name": "Vivaldi Webmail",
+                        "type": "url",
+                        "url": "https://vivaldi.com/bk/sd-webmail"
+                     } ],
+                     "date_added": "13391165461021742",
+                     "date_last_used": "0",
+                     "date_modified": "0",
+                     "guid": "fc1b0d4b-2c5b-4973-a3c0-14c922a5e248",
+                     "id": "142",
+                     "name": "Vivaldi",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "02329e48-f727-4116-b92a-746320f8fc41",
+                     "id": "145",
+                     "name": "Booking.com",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/booking-ca-bk"
+                  }, {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "1e8799d1-d512-4056-a519-42c8ecb4c6ab",
+                     "id": "146",
+                     "name": "Expedia",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/expedia-eu"
+                  }, {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "4801dca3-1dc1-4e11-9eae-817ac7d76bb2",
+                     "id": "147",
+                     "name": "AliExpress",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/ali-ca-bk"
+                  }, {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "493c5398-0653-4551-ad9d-d326362b37ec",
+                     "id": "148",
+                     "name": "Amazon",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/amazon-ca-bk"
+                  }, {
+                     "date_added": "13390123293000000",
+                     "date_last_used": "0",
+                     "guid": "77eae0d0-98cd-4e0a-9685-b0b94bbb4f60",
+                     "id": "149",
+                     "name": "eBay",
+                     "type": "url",
+                     "url": "https://vivaldi.com/bk/ebay-ca-bk"
+                  } ],
+                  "date_added": "13391165461021668",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "c0fcf79f-0fa4-454a-8d3a-02032eea2698",
+                  "id": "140",
+                  "name": "Bookmarks",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "0",
+                        "date_last_used": "0",
+                        "guid": "bb7392f0-bce5-4898-a7be-ecbd24b24b2b",
+                        "id": "152",
+                        "name": "[Gnome] New rice setup : r/unixporn",
+                        "type": "url",
+                        "url": "https://www.reddit.com/r/unixporn/comments/1jzxcyp/gnome_new_rice_setup/"
+                     }, {
+                        "date_added": "0",
+                        "date_last_used": "0",
+                        "guid": "c7c225f6-6448-41d8-8d10-58b4580d9d8f",
+                        "id": "153",
+                        "name": "Cssd dl.cssd.ab.ca CCSD Distributed Learning: Login",
+                        "type": "url",
+                        "url": "https://dl.cssd.ab.ca/"
+                     }, {
+                        "date_added": "0",
+                        "date_last_used": "0",
+                        "guid": "12c0c197-71a9-4393-8923-3d0914915cac",
+                        "id": "154",
+                        "name": "unix",
+                        "type": "url",
+                        "url": "https://www.reddit.com/r/unixporn/?rdt=36470"
+                     }, {
+                        "date_added": "0",
+                        "date_last_used": "0",
+                        "guid": "d6b51638-8735-4149-89f6-e43af1fb75d2",
+                        "id": "155",
+                        "name": "gsis",
+                        "type": "url",
+                        "url": "https://github.com/TrebleDroid/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list"
+                     }, {
+                        "children": [ {
+                           "children": [ {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "49079ef4-44a7-43b2-ab6d-3cd735f812df",
+                              "id": "158",
+                              "name": "SpotiFlyer",
+                              "type": "url",
+                              "url": "https://shabinder.github.io/SpotiFlyer/"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "615556d2-4a0a-4e25-bcaa-e560982792cb",
+                              "id": "159",
+                              "name": "",
+                              "type": "url",
+                              "url": "https://www.wcofun.net/"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "768d674b-c93b-4cc1-bff1-e20c76c318f8",
+                              "id": "160",
+                              "name": "Remove Background from Image for Free – remove.bgRemove.bghttps://www.remove.bg",
+                              "type": "url",
+                              "url": "https://www.remove.bg/"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "2feb5009-21c7-4bd1-9fc8-a96d92e29afe",
+                              "id": "161",
+                              "name": "Homepage - Ascension Of Our Lord School",
+                              "type": "url",
+                              "url": "https://dl.cssd.ab.ca/d2l/home/254360"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "6331b77f-4f62-43fe-b20d-4a8675bbf250",
+                              "id": "162",
+                              "name": "Equitable Group Benefits",
+                              "type": "url",
+                              "url": "https://www.equitablehealth.ca/cms/planmember/home"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "06a72995-81de-45d1-aad0-8ec5811dedd5",
+                              "id": "163",
+                              "name": "Ascension of Our Lord Conference Manager",
+                              "type": "url",
+                              "url": "https://ascension.schoolsoft.com/login.jsf"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "7cefd2f9-184a-4227-8795-0c7966323960",
+                              "id": "164",
+                              "name": "Open Future Learning Dashboard",
+                              "type": "url",
+                              "url": "https://www.openfuturelearning.org/index.cfm?fuseaction=home.main&CFID=28142208&CFTOKEN=74759b49b7e21ebf-BD998C4F-B293-6708-02CA6888DF923511"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "d2c88151-3923-4bda-b27d-b467dcdb06b7",
+                              "id": "165",
+                              "name": "Customrombay.org",
+                              "type": "url",
+                              "url": "https://customrombay.org/"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "04ac55cd-db0c-492c-bbea-5ba4d27d0ecc",
+                              "id": "166",
+                              "name": "Homepage - Ascension Of Our Lord School",
+                              "type": "url",
+                              "url": "https://dl.cssd.ab.ca/d2l/home/254360"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "c9886445-1b8d-4214-b172-3d2058b76644",
+                              "id": "167",
+                              "name": "Google Takeout",
+                              "type": "url",
+                              "url": "https://takeout.google.com/settings/takeout"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "db29f1c1-2a69-4443-9acd-eaf5237a2ae5",
+                              "id": "168",
+                              "name": "Release LLVM 18.1.8 · llvm/llvm-project",
+                              "type": "url",
+                              "url": "https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.8"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "b5a2054e-a2f6-4029-8c02-d79048d75cb9",
+                              "id": "169",
+                              "name": "GD Song File Hub",
+                              "type": "url",
+                              "url": "https://songfilehub.com/home"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "350a579c-49cf-4be0-ace4-c348a4b77ca2",
+                              "id": "170",
+                              "name": "Search results for Box - Flaticon",
+                              "type": "url",
+                              "url": "https://www.flaticon.com/search?word=box"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "c9afba85-7289-4322-a435-37bcd556fc91",
+                              "id": "171",
+                              "name": "Html Editor v6.0.1 MOD APK (Premium Unlocked) Download",
+                              "type": "url",
+                              "url": "https://liteapks.com/html-editor-2.html"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "6ceeea66-9fb7-4732-bfde-9c1b9fd8bf5e",
+                              "id": "172",
+                              "name": "Download SM-A155F/Galaxy A15 SM-A155F (FWD) A155FXXU5BXK5 in Samfw - Samsung firmware download",
+                              "type": "url",
+                              "url": "https://samfw.com/firmware/SM-A155F/FWD/A155FXXU5BXK5"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "43846280-3462-442c-82fc-49a6e151115b",
+                              "id": "173",
+                              "name": "How to Install Evolution X GSI on Samsung Galaxy A15 (A155M/A155F) without TWRP – A Painless Guide (For the Gods of Android) : r/CustomROMsGuide",
+                              "type": "url",
+                              "url": "https://www.reddit.com/r/CustomROMsGuide/comments/1hfzwn2/how_to_install_evolution_x_gsi_on_samsung_galaxy/"
+                           }, {
+                              "date_added": "0",
+                              "date_last_used": "0",
+                              "guid": "83028fed-a2b8-4cf4-8ea3-6a45b282459a",
+                              "id": "174",
+                              "name": "[UPDATED][RECOVERY][UNOFFICIAL]TWRP 3.6.2 for 2020 Galaxy Tab A7 10.4[SM-T500] | XDA Forums",
+                              "type": "url",
+                              "url": "https://xdaforums.com/t/updated-recovery-unofficial-twrp-3-6-2-for-2020-galaxy-tab-a7-10-4-sm-t500.4358595/"
+                           } ],
+                           "date_added": "13391165461024595",
+                           "date_last_used": "0",
+                           "date_modified": "0",
+                           "guid": "0fcd23fb-340b-45f6-9890-5f5340536c5f",
+                           "id": "157",
+                           "name": "Bookmarks bar",
+                           "type": "folder"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "2d5f344b-52d3-4a61-83d4-05c27fde07d9",
+                           "id": "175",
+                           "name": "GitHub - mrpond/BlockTheSpot: Video, audio & banner adblock/skip for Spotify",
+                           "type": "url",
+                           "url": "https://github.com/mrpond/BlockTheSpot"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "49503028-3801-4455-909f-3d153e9beeb8",
+                           "id": "176",
+                           "name": "127.0.0.1:3000/c:/Program Files/Git/ReleaseNotes.html",
+                           "type": "url",
+                           "url": "http://127.0.0.1:3000/c:/Program%20Files/Git/ReleaseNotes.html"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "a40f91b9-aecb-4659-8c50-9a370ae606f0",
+                           "id": "177",
+                           "name": "3.1. IDE Setup - Geode Docs",
+                           "type": "url",
+                           "url": "https://docs.geode-sdk.org/getting-started/ide-setup/#visual-studio"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "db06b010-ff54-4b33-ac6f-ee38393e7ab7",
+                           "id": "178",
+                           "name": "Boot Animation Factory - Download",
+                           "type": "url",
+                           "url": "https://boot-animation-factory.en.lo4d.com/windows"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "a8c8feda-2b9a-4d46-ad83-19fc6a041861",
+                           "id": "179",
+                           "name": "Youtube Downloader - Online Youtube Video Downloader | YT1s.com",
+                           "type": "url",
+                           "url": "https://yt1s.com/en423"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "52dba9e3-1d50-48fb-a079-5e31bfd7878a",
+                           "id": "180",
+                           "name": "Tyler, The Creator on Amazon Music Unlimited",
+                           "type": "url",
+                           "url": "https://music.amazon.ca/artists/B004OW3P5W/tyler-the-creator"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "27571940-b5fd-4f02-b41f-207039bbed6d",
+                           "id": "181",
+                           "name": "South Park Season 26 - Watch Cartoons and Anime Online in HD for Free",
+                           "type": "url",
+                           "url": "https://www.wcofun.com/anime/south-park-season-26"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "f86b47ce-13ea-4776-b0cf-9fb12fd2ec21",
+                           "id": "182",
+                           "name": "10+ Websites That Pay You: How To Get Paid Online [2023]",
+                           "type": "url",
+                           "url": "https://bloggingtips.com/websites-that-pay-you/#1_UpWork"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "e8faeb38-ceb2-444a-b5a7-e4fed8f7ec4c",
+                           "id": "183",
+                           "name": "Watch Spider-Man: Across the Spider-Verse Online Free on GOKU",
+                           "type": "url",
+                           "url": "https://goku.sx/watch-movie/watch-spider-man-into-the-spider-verse-sequel-66674/1349239"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "5f2baa9e-2ed1-4631-b0dd-55c83e3d2c3e",
+                           "id": "184",
+                           "name": "Watch Spider-Man: Across the Spider-Verse Full Movie on FMovies.to",
+                           "type": "url",
+                           "url": "https://ww4.fmovies.co/film/spider-man-across-the-spider-verse-1630855243/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "1962a6cd-8e41-4aea-a2cc-5081855cb1f2",
+                           "id": "185",
+                           "name": "Aniyomi",
+                           "type": "url",
+                           "url": "https://aniyomi.org/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "26920410-6234-47f4-bdea-7d08007e1844",
+                           "id": "186",
+                           "name": "Cineplex.com | Shazam! Fury of the Gods - Family Favourites",
+                           "type": "url",
+                           "url": "https://www.cineplex.com/movie/shazam-fury-of-the-gods-family-favourites"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "e8aa8210-e28c-44d0-b2db-b4d1aee898e6",
+                           "id": "187",
+                           "name": "how to update old android phone to latest version - Google Search",
+                           "type": "url",
+                           "url": "https://www.google.com/search?q=how+to+update+old+android+phone+to+latest+version&oq=how+to+update+a+old+samsung+phone+to&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMgoIAhAAGIYDGIoFMgoIAxAAGIYDGIoFMgoIBBAAGIYDGIoFMgoIBRAAGIYDGIoF0gEKMjg5NzJqMGoxOagCALACAA&client=tablet-android-samsung-nf-rev1&sourceid=chrome-mobile&ie=UTF-8"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "63f4658a-50fa-4ee5-aebf-f674afec9497",
+                           "id": "188",
+                           "name": "SOAP2DAY",
+                           "type": "url",
+                           "url": "https://soap2day.to/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "302c9621-208b-44c2-9b41-7649896c06d1",
+                           "id": "189",
+                           "name": "Enhance Speech from Adobe | Free AI filter for cleaning up spoken audio",
+                           "type": "url",
+                           "url": "https://podcast.adobe.com/enhance#"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "67fa6ad3-24ba-4c78-ad71-2b07e29b895c",
+                           "id": "190",
+                           "name": "rosmegas - Profile page - EroMe",
+                           "type": "url",
+                           "url": "https://www.erome.com/rosmegas"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "e34533e4-befc-4f09-8897-f6b84a4bd04b",
+                           "id": "191",
+                           "name": "Jenna Ortega NUDE Leaks (25 pictures) - Shooshtime",
+                           "type": "url",
+                           "url": "https://shooshtime.com/photos/206233/jenna-ortega-nude-leaks/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "257238c3-69cf-409f-8983-ee1ecaab33a0",
+                           "id": "192",
+                           "name": "7-Eleven: Rewards & Shopping 4.0.8 (arm64-v8a) (480-640dpi) (Android 9.0+) APK Download by 7-Eleven, Inc. - APKMirror",
+                           "type": "url",
+                           "url": "https://www.apkmirror.com/apk/7-eleven-inc/7-eleven-inc/7-eleven-inc-4-0-8-release/7-eleven-rewards-shopping-4-0-8-android-apk-download/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "297b4dfb-dc75-418c-a502-8f7ed23c8f17",
+                           "id": "193",
+                           "name": "182 Best Good Lock Alternatives and Similar Apps for Android - APKFab.com",
+                           "type": "url",
+                           "url": "https://apkfab.com/good-lock-premium-lock-screen/com.sonjoon.goodlock/alternatives"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "c2dcc3cf-e322-403a-bf20-c3441c529e9d",
+                           "id": "194",
+                           "name": "BT979 Bluetooth Earbud User Manual Sentry Industries limited",
+                           "type": "url",
+                           "url": "https://fccid.io/2ACP4BT979/User-Manual/User-Manual-4348824#google_vignette"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "91c66278-68e0-430f-8d72-e742d07a996b",
+                           "id": "195",
+                           "name": "BT979 Bluetooth Earbud User Manual Sentry Industries limited",
+                           "type": "url",
+                           "url": "https://fccid.io/2ACP4BT979/User-Manual/User-Manual-4348824"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "3b1813da-0ddb-42be-83f2-309ce324e9ae",
+                           "id": "196",
+                           "name": "mega.nz/folder/n5wzHCAJ#8ttkFVJjIwNs4R8NL5qqlA/folder/a1Ym0CiL",
+                           "type": "url",
+                           "url": "https://mega.nz/folder/n5wzHCAJ#8ttkFVJjIwNs4R8NL5qqlA/folder/a1Ym0CiL"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "1ef367ab-ff84-4080-b61f-84a50ecbabf5",
+                           "id": "197",
+                           "name": "Heardle Unlimited",
+                           "type": "url",
+                           "url": "https://heardlegame.co/game/heardleu/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "3bf0058d-c55a-40ce-9068-7d13ab52fa2c",
+                           "id": "198",
+                           "name": "Watch Saw X (2023) Full HD Movie | YesMovies.to",
+                           "type": "url",
+                           "url": "https://ww.yesmovies.ag/movie/saw-x-1630855818.html"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "8b8ddcce-448a-4995-a55b-bc2533694d38",
+                           "id": "199",
+                           "name": "s2d2",
+                           "type": "url",
+                           "url": "https://soap2day.tf/home"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "bd5adaa5-ad0c-42e8-b427-10d7d6895d8e",
+                           "id": "200",
+                           "name": "Video Converter | CloudConvert",
+                           "type": "url",
+                           "url": "https://cloudconvert.com/video-converter"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "b2ecfc90-15e9-4f24-b6e9-6fe84f4ff206",
+                           "id": "201",
+                           "name": "Create an App from Website | Link to App Maker",
+                           "type": "url",
+                           "url": "https://appsgeyser.com/create-website-app/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "4ebbdb1e-ba73-4646-a445-65b6cca8116e",
+                           "id": "202",
+                           "name": "Rhythm Heaven Fever ROM - WII Download - Emulator Games",
+                           "type": "url",
+                           "url": "https://www.emulatorgames.net/roms/nintendo-wii/rhythm-heaven-fever/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "1e4785bf-2539-45ef-9416-c58e9e46f5bb",
+                           "id": "203",
+                           "name": "Survivor.io v2.4.1 MOD APK (Menu, Unlimited Ammo, Skills) Download",
+                           "type": "url",
+                           "url": "https://liteapks.com/download/survivor-io-27726"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "2940f32e-56db-485f-b1a3-2d947e7e04f7",
+                           "id": "204",
+                           "name": "Material Design Icons - Icon Library - Pictogrammers",
+                           "type": "url",
+                           "url": "https://pictogrammers.com/library/mdi/category/holiday/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "73597970-07ee-499e-9a0f-0cb49a81f487",
+                           "id": "205",
+                           "name": "AI Summarizing Tool: Free Summary Generator | Semrush",
+                           "type": "url",
+                           "url": "https://www.semrush.com/goodcontent/summary-generator/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "e89ee22c-7119-4361-bc37-eac29f5a9c9c",
+                           "id": "206",
+                           "name": "Smallpdf.com - A Free Solution to all your PDF Problems",
+                           "type": "url",
+                           "url": "https://smallpdf.com/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "c7122a6a-d1a0-4044-bbc2-bd374fa24e65",
+                           "id": "207",
+                           "name": "The Devil’s Arithmetic Study Guide | Literature Guide | LitCharts",
+                           "type": "url",
+                           "url": "https://www.litcharts.com/lit/the-devil-s-arithmetic"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "3d52b094-67a4-41b5-bb09-924df35f83fe",
+                           "id": "208",
+                           "name": "Singaporean Reddit Girl With Huge Tits and Wet Pussy (2/2) - EroMe",
+                           "type": "url",
+                           "url": "https://www.erome.com/a/L9KbCOlS"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "a14a1db0-c8b0-4a06-90d2-f3da95f54633",
+                           "id": "209",
+                           "name": "madzisstacked-busty expansion - Porn Videos & Photos - EroMe",
+                           "type": "url",
+                           "url": "https://www.erome.com/a/INJQJYMI"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "3a2c62d3-909b-49d6-8dd2-dd14f3adb240",
+                           "id": "210",
+                           "name": "GitHub - nyas1/Material-You-app-list: A well organized & frequently updated collection of apps that supports material you design/theme.",
+                           "type": "url",
+                           "url": "https://github.com/nyas1/Material-You-app-list"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "c38f18f1-4eda-46c4-aab8-9a9228e48f5d",
+                           "id": "211",
+                           "name": "skinhub!",
+                           "type": "url",
+                           "url": "https://b9r.me/skins"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "c0aff234-dcf4-4332-8743-84c9d9df7654",
+                           "id": "212",
+                           "name": "Grades and Attendance",
+                           "type": "url",
+                           "url": "https://sis.cssd.ab.ca/guardian/home.html"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "f9e0f17c-8ce4-487d-8eb6-ee8214fb1781",
+                           "id": "213",
+                           "name": "GitHub - fawazahmed0/Latest-adb-fastboot-installer-for-windows: A Simple Android Driver installer tool for windows (Always installs the latest version)",
+                           "type": "url",
+                           "url": "https://github.com/fawazahmed0/Latest-adb-fastboot-installer-for-windows"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "d9914a57-3fff-4e73-ad1a-31034cdca84e",
+                           "id": "214",
+                           "name": "TWRP 3.7.1 Released",
+                           "type": "url",
+                           "url": "https://twrp.me/site/update/2024/02/21/3.7.1-released.html"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "9a0d5f90-51a0-4cec-b189-5f909b446a42",
+                           "id": "215",
+                           "name": "NotebookLM",
+                           "type": "url",
+                           "url": "https://notebooklm.google.com/?_gl=1*4lf6my*_ga*MjE3NzY4MDc3LjE3MjcxNDUzNjg.*_ga_W0LDH41ZCB*MTcyNzE0NTM2Ny4xLjEuMTcyNzE0NTM3OS41MS4wLjA.&original_referer=https:%2F%2Fnotebooklm.google%23&pli=1"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "15987845-cd09-4028-affe-e5ae7e48c048",
+                           "id": "216",
+                           "name": "o",
+                           "type": "url",
+                           "url": "https://www.reddit.com/r/Classof09Game/comments/1fnepxt/discussion_thread_class_of_09_the_flip_side/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "e54ef827-6fc0-43fb-8e43-4c59ec73d5c0",
+                           "id": "217",
+                           "name": "Digitizer Vitre Tactile LCD Display Touch Screen Replacement Compatible with Motorola Moto G Stylus (2020) XT2043 6.4 inch : Amazon.ca: Electronics",
+                           "type": "url",
+                           "url": "https://www.amazon.ca/Digitizer-Tactile-Replacement-Compatible-Motorola/dp/B08GR6F7GS/ref=asc_df_B08GR6F7GS/?tag=googleshopc0c-20&linkCode=df0&hvadid=706761368569&hvpos=&hvnetw=g&hvrand=13679272169021648794&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001337&hvtargid=pla-2300711186138&psc=1&mcid=7b9db65018bc34afb51ad8d7cc1b6537&gad_source=1"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "88013d7e-3fb8-485a-afd9-8a15f6306e6e",
+                           "id": "218",
+                           "name": "blinkie maker | generate blinkie gifs with custom text!",
+                           "type": "url",
+                           "url": "https://blinkies.cafe/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "73b32729-6b97-4045-9e70-e6bcb985c526",
+                           "id": "219",
+                           "name": "How To Root Galaxy A03 Using Magisk COMPLETE Tutorial - YouTube",
+                           "type": "url",
+                           "url": "https://www.youtube.com/watch?v=eB9HVZjHBq0&t=1010s"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "b2ee21f7-e9f9-42fb-9b14-998c0cca79a1",
+                           "id": "220",
+                           "name": "Chat with all of your Course Materials | Unstuck AI",
+                           "type": "url",
+                           "url": "https://unstuckstudy.com/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "2f12bdc5-c3a4-46ff-bf15-bd86e4dddca9",
+                           "id": "221",
+                           "name": "[Guide][SM-T500/T505] Galaxy Tab A7 10.4 - Unlock Bootloader & Root with Magisk | XDA Forums",
+                           "type": "url",
+                           "url": "https://xdaforums.com/t/guide-sm-t500-t505-galaxy-tab-a7-10-4-unlock-bootloader-root-with-magisk.4185993/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "5a81df13-db4a-4a67-9ce6-549d79fd7ea6",
+                           "id": "222",
+                           "name": "Download Galaxy A03 Core SM-A032M (BVO) A032MUBS4CXI2 in Samfw - Samsung firmware download",
+                           "type": "url",
+                           "url": "https://samfw.com/firmware/SM-A032M/BVO/A032MUBS4CXI2"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "ce6fe2bd-bed2-480b-97f7-017c6edaafa4",
+                           "id": "223",
+                           "name": "Samsung Galaxy A15 4G",
+                           "type": "url",
+                           "url": "https://twrp.me/samsung/samsunggalaxya154g.html"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "d2e06a40-9440-481d-891d-e0b2f2fc06c3",
+                           "id": "224",
+                           "name": "for Samsung Galaxy Z Fold 4 Case: Slim Shockproof Protective Phone Case for Galaxy Z Fold 4 5G (Black) : Amazon.ca: Electronics",
+                           "type": "url",
+                           "url": "https://www.amazon.ca/Samsung-Galaxy-Fold-Case-Shockproof/dp/B0B7S34C89/ref=sr_1_9?dib=eyJ2IjoiMSJ9.6sp7xfYCkwDn_pgazk9mx1ogow5lCZbJixl344oGQkkQmlPJbI9s7ng8ibd43N8MYGFwPRoZDvecLdwJYGk8QQ_n-BOAxHabz2pFlYeFkSD-dalP-N8dkFEZmwL8UOGqvvcJHpuXg4htlZTvKhKtC2pJ3LYpf66qHxwcD2A1MaMQexd4rf1tnxCqkNl5tNmUsjZ4lfyHVsyH4MZ4ExOrX4EEKQjnecykDdgOoM1zZzBe_8MiG630SYdiNH35pnJDUWcuLmRPU_h7f4gjwygxUyhzNqxm-PB0R8FCuiYlUd0Qx69Qqw8Ej32WVFenMF9I2mCSRv69W1Sn2eIYnbPH1Cbh8tSSmxiitWZAHtxfJacoJCAborqovJSSJY-errDyxMO2UO5LWVWDkBKWm087nCw3otN0-xqjPetpdehSFvcLCOMLUXlhPe0vnBS5C-_o.NA2kq04EtBnLYirbo7KX1Bm8N4L_5_tHaqAovIwLb4s&dib_tag=se&keywords=z%2Bfold%2B4%2Bcase&qid=1734003409&sr=8-9&th=1"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "24c864c2-bca4-4bd6-a799-65a716a6b3fe",
+                           "id": "225",
+                           "name": "[ROM][14][U][SM-T500][GTA4LWIFI] crDroid v10.2 Vanilla [UNOFFICIAL] for Samsung Galaxy Tab A7 2020 | XDA Forums",
+                           "type": "url",
+                           "url": "https://xdaforums.com/t/rom-14-u-sm-t500-gta4lwifi-crdroid-v10-2-vanilla-unofficial-for-samsung-galaxy-tab-a7-2020.4656943/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "cc470b7a-e354-4913-9a53-3852305ef14a",
+                           "id": "226",
+                           "name": "[SM-T505,T500,T507] [Android 14] Samsung Galaxy Tab A7 LTE GSI flashing guide | XDA Forums",
+                           "type": "url",
+                           "url": "https://xdaforums.com/t/sm-t505-t500-t507-android-14-samsung-galaxy-tab-a7-lte-gsi-flashing-guide.4423297/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "0f679537-1ea7-4fba-9663-8ac343be689f",
+                           "id": "227",
+                           "name": "Matrixx ROM",
+                           "type": "url",
+                           "url": "https://www.projectmatrixx.org/downloads/gta4lwifi"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "0cdc012f-6c86-48e9-9406-be98db7668e3",
+                           "id": "228",
+                           "name": "[ TUTORIAL ] Cómo instalar una ROM GSI - HTCMania",
+                           "type": "url",
+                           "url": "https://www.htcmania.com/showthread.php?t=1550469"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "57380b97-9c85-4f89-b33b-de81522ed622",
+                           "id": "229",
+                           "name": "[MAGISK] Pixelify | XDA Forums",
+                           "type": "url",
+                           "url": "https://xdaforums.com/t/magisk-pixelify.4415387/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "845834a5-7db8-4360-9634-0dd26f5b1023",
+                           "id": "230",
+                           "name": "Initial Installation of Magisk v24 - patch boot.img | XDA Forums",
+                           "type": "url",
+                           "url": "https://xdaforums.com/t/initial-installation-of-magisk-v24-patch-boot-img.4394635/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "d6cfa124-3c55-441e-bf84-3c6a435e7898",
+                           "id": "231",
+                           "name": "GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.",
+                           "type": "url",
+                           "url": "https://pages.github.com/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "9d0e0ccc-aa10-45cd-9990-995028f35167",
+                           "id": "232",
+                           "name": "Installation | Magisk",
+                           "type": "url",
+                           "url": "https://topjohnwu.github.io/Magisk/install.html"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "034dbb3f-bbcc-4a2a-aaec-cf79cc74bfc9",
+                           "id": "233",
+                           "name": "Install LineageOS on gta4lwifi | LineageOS Wiki",
+                           "type": "url",
+                           "url": "https://wiki.lineageos.org/devices/gta4lwifi/install/#installing-lineage-recovery-using-odin"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "caf9de71-b145-4ff2-8389-a9e4696af6d7",
+                           "id": "234",
+                           "name": "Generic System Image (GSI) list - phhusson",
+                           "type": "url",
+                           "url": "https://magiskzip.com/gsi-list-phhusson/#How-to-Check-if-Your-Phone-Supports-Project-Treble"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "e11f8f71-1fbf-46c1-b12f-a9a77923be71",
+                           "id": "235",
+                           "name": "[Fastboot] Invalid sparse file format at header magic. How to fix? | XDA Forums",
+                           "type": "url",
+                           "url": "https://xdaforums.com/t/fastboot-invalid-sparse-file-format-at-header-magic-how-to-fix.4281719/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "03242054-27f3-45d8-9816-531d855f8377",
+                           "id": "236",
+                           "name": "Index of /mirror/archlinux.org/iso/2024.12.01/",
+                           "type": "url",
+                           "url": "https://mirror.cpsc.ucalgary.ca/mirror/archlinux.org/iso/2024.12.01/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "9c1ac4bd-e1c5-4069-b204-6f31d3ec8f33",
+                           "id": "237",
+                           "name": "Samsung Galaxy A15 4g kernel & root (A155) | XDA Forums",
+                           "type": "url",
+                           "url": "https://xdaforums.com/t/samsung-galaxy-a15-4g-kernel-root-a155.4668912/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "20ee7e55-a7f3-4bf8-9722-0b9d910ce548",
+                           "id": "238",
+                           "name": "Releases · naz664/crDroid_gsi",
+                           "type": "url",
+                           "url": "https://github.com/naz664/crDroid_gsi/releases"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "db16f51f-fc6d-4e47-ad87-bf27a590d914",
+                           "id": "239",
+                           "name": "Generic System Image (GSI) list · phhusson/treble_experimentations Wiki · GitHub",
+                           "type": "url",
+                           "url": "https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "5a5d6c77-e764-4338-82c1-5fafc34430c8",
+                           "id": "240",
+                           "name": "[CLOSED] [GUIDE] [how to] CREATE OWN ROM [FOR ANY ANDROID DEVICE] [FOR N00B] [EASIEST METHODS] | XDA Forums",
+                           "type": "url",
+                           "url": "https://xdaforums.com/t/closed-guide-how-to-create-own-rom-for-any-android-device-for-n00b-easiest-methods.1801690/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "8181c291-fee9-4d23-9652-2bfe7f2fe65c",
+                           "id": "241",
+                           "name": "Magisk Modules Repo - #1 Trusted Source Of the Best Modules - Androidacy",
+                           "type": "url",
+                           "url": "https://www.androidacy.com/magisk-modules-repository/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "88406a80-86fc-4989-91ba-45e42554344b",
+                           "id": "242",
+                           "name": "ChatGPT",
+                           "type": "url",
+                           "url": "https://chatgpt.com/"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "6ade7d2e-07d0-4f3f-9b86-02b20bbf1a87",
+                           "id": "243",
+                           "name": "Please Confirm Your Order - AliExpress",
+                           "type": "url",
+                           "url": "https://www.aliexpress.com/p/trade/confirm.html?objectId=1005008634964059&from=aliexpress&countryCode=CA&shippingCompany=CAINIAO_FULFILLMENT_STD&provinceCode=903765660000000000&cityCode=903765666765000000&aeOrderFrom=main_detail&skuAttr=14%3A1202%23TFT%20No%20Frame&skuId=12000046049529735&skucustomAttr=&quantity=1&spm=a2g0o.detail.0.0&curPageLogUid=1742188802611_op2UbZ&pdpBuyParams=%7B%7D"
+                        }, {
+                           "date_added": "0",
+                           "date_last_used": "0",
+                           "guid": "fa14a96a-d79c-4dd5-b4c3-b89f5c975150",
+                           "id": "244",
+                           "name": "MIUI 13 [Crystallization] live wallpapers - pling.com",
+                           "type": "url",
+                           "url": "https://www.pling.com/p/1674117"
+                        } ],
+                        "date_added": "13391165461024559",
+                        "date_last_used": "0",
+                        "date_modified": "0",
+                        "guid": "25946631-d46f-45fe-9b8a-f3011a1b6332",
+                        "id": "156",
+                        "name": "Imported",
+                        "type": "folder"
+                     }, {
+                        "date_added": "0",
+                        "date_last_used": "0",
+                        "guid": "388ad972-1c7e-493b-b1f5-a791133f532c",
+                        "id": "245",
+                        "name": "taba7",
+                        "type": "url",
+                        "url": "https://samfw.com/firmware/SM-T500"
+                     }, {
+                        "date_added": "0",
+                        "date_last_used": "0",
+                        "guid": "22a14942-e7be-43e2-8623-da98a8f6c54f",
+                        "id": "246",
+                        "name": "Gemini",
+                        "type": "url",
+                        "url": "https://gemini.google.com/app"
+                     }, {
+                        "date_added": "0",
+                        "date_last_used": "0",
+                        "guid": "33bb3e89-ecb6-40da-a833-eb199c7ef517",
+                        "id": "247",
+                        "name": "OneDrive",
+                        "type": "url",
+                        "url": "https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9iZjI5M2I3OTllNjUwNjg0L0VVdkpJdlE2RjFsR2paa3h0UXpCRkZVQlhFby1Wd3JlcUNNVlU0YWhpdEpSV2c%5FZT01b054TEI&cid=BF293B799E650684&id=BF293B799E650684%21sf422c94b173a46598d9931b50cc11455&parId=BF293B799E650684%21sd27e8ea90a1d4be4b92fee2df398e5e2&o=OneUp"
+                     } ],
+                     "date_added": "13391165461022449",
+                     "date_last_used": "0",
+                     "date_modified": "0",
+                     "guid": "e23f7cc7-f790-4790-9059-f37b1f28401e",
+                     "id": "151",
+                     "name": "Bookmarks bar",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "0",
+                        "date_last_used": "0",
+                        "guid": "b37d5f15-7991-4284-9f69-04ece770137f",
+                        "id": "249",
+                        "name": "Watch Cartoons and Anime Online in HD for Free",
+                        "type": "url",
+                        "url": "https://wcofun.net/"
+                     } ],
+                     "date_added": "13391165461033210",
+                     "date_last_used": "0",
+                     "date_modified": "0",
+                     "guid": "9dda3cc4-1478-4ec0-a62a-66c52dff645c",
+                     "id": "248",
+                     "name": "Other bookmarks",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13391165461022415",
+                  "date_last_used": "0",
+                  "date_modified": "13391165461022415",
+                  "guid": "438b5e19-a42f-400f-9e8b-339758b13b86",
+                  "id": "150",
+                  "name": "Imported bookmarks",
+                  "type": "folder"
+               }, {
+                  "date_added": "13390392510000000",
+                  "date_last_used": "0",
+                  "guid": "4001125f-b103-4af2-aa7a-5ff627dc6ba8",
+                  "id": "250",
+                  "name": "Flathub - Apps for Linux",
+                  "type": "url",
+                  "url": "https://flathub.org/"
+               }, {
+                  "date_added": "13390653544000000",
+                  "date_last_used": "0",
+                  "guid": "382252ff-868d-4ac0-9650-4d8a94483b63",
+                  "id": "251",
+                  "name": "Student and Parent Sign In",
+                  "type": "url",
+                  "url": "https://sis.cssd.ab.ca/public/home.html"
+               }, {
+                  "children": [  ],
+                  "date_added": "13391165461033367",
+                  "date_last_used": "0",
+                  "date_modified": "13391167515264735",
+                  "guid": "fe7e03a5-01b1-4d23-99ab-c8d8bf3d2ed7",
+                  "id": "252",
+                  "name": "New Folder",
+                  "type": "folder"
+               }, {
+                  "date_added": "13391021340000000",
+                  "date_last_used": "0",
+                  "guid": "5c5b4b59-59f5-4e9a-b185-698393354d89",
+                  "id": "253",
+                  "name": "FAQ – Hyprland Wiki",
+                  "type": "url",
+                  "url": "https://wiki.hyprland.org/0.41.2/FAQ/"
+               } ],
+               "date_added": "13391165461018307",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "61d0228d-dbbd-418d-9225-c83120555024",
+               "id": "124",
+               "name": "Bookmarks",
+               "type": "folder"
+            } ],
+            "date_added": "13391165461017706",
+            "date_last_used": "0",
+            "date_modified": "13391165461017706",
+            "guid": "a1e96d6b-0b62-40b5-8145-df00a2557b1e",
+            "id": "123",
+            "name": "Imported from Vivaldi Work.",
+            "type": "folder"
+         }, {
+            "date_added": "13391167515264735",
+            "date_last_used": "0",
+            "guid": "385a591d-8758-4df5-b237-375cb91a873b",
+            "id": "254",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "discord",
+            "type": "url",
+            "url": "javascript:(function()%7Blocation.reload()%3Bvar%20i%20%3D%20document.createElement('iframe')%3Bdocument.body.appendChild(i)%3Balert(i.contentWindow.localStorage.token)%7D)()"
+         }, {
+            "date_added": "13391936603878541",
+            "date_last_used": "0",
+            "guid": "bf29a3b8-164f-4f31-83f4-2848b43dc2da",
+            "id": "256",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "cobalt",
+            "type": "url",
+            "url": "https://cobalt.tools/"
+         }, {
+            "date_added": "13392348626233140",
+            "date_last_used": "0",
+            "guid": "f2deb045-a6c6-4bfd-a4c5-65f3ff5f4dbd",
+            "id": "258",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SebaUbuntu - LineageOS apps",
+            "type": "url",
+            "url": "https://www.sebaubuntu.dev/lineageapps.html"
+         }, {
+            "date_added": "13392454665828747",
+            "date_last_used": "0",
+            "guid": "96ab58b3-6b42-4ee7-937a-5b518c7fad21",
+            "id": "260",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Reset USB: Restore USB Flash Drive Capacity: Fix or Repair",
+            "type": "url",
+            "url": "https://pendrivelinux.com/restoring-your-usb-key-partition/"
+         } ],
+         "date_added": "13389780789697573",
+         "date_last_used": "0",
+         "date_modified": "13392454665828747",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13389786036718042",
+            "date_last_used": "0",
+            "guid": "27cc219f-f21f-4874-8564-6436c75d8b90",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch Cartoons and Anime Online in HD for Free",
+            "type": "url",
+            "url": "https://wcofun.net/"
+         } ],
+         "date_added": "13389780789697578",
+         "date_last_used": "0",
+         "date_modified": "13389786036718042",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13389780789697581",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,4 @@
+2025/05/25-22:52:07.656 2db3 Reusing MANIFEST /home/mid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/25-22:52:07.657 2db3 Recovering log #198
+2025/05/25-22:52:07.661 2db3 Reusing old log /home/mid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000198.log 
+2025/05/25-22:52:07.662 2db3 Delete type=2 #197

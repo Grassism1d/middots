@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "e32c8894-f421-4356-b036-fb84e12328bd",
+      "logo": {
+        "imageUrl": "d699ceb8-01c4-45fc-9611-6cd308a30aa0/5463ad6a-cd59-4c37-9d74-2ccfa8d8f8e5.png",
+        "destinationUrl": "https://anewdawn.vision/?mtm_campaign=BB_GOTVB",
+        "alt": "Cardano - A new dawn, a new cardano - Get Involved",
+        "companyName": "Cardano"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "d699ceb8-01c4-45fc-9611-6cd308a30aa0/caa50696-4552-4879-95fe-133dbe6bd6e7.jpg",
+          "creativeInstanceId": "017fed91-c063-4c57-b4fb-27a3f0a38601",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "e32c8894-f421-4356-b036-fb84e12328bd",
+      "logo": {
+        "imageUrl": "d699ceb8-01c4-45fc-9611-6cd308a30aa0/5463ad6a-cd59-4c37-9d74-2ccfa8d8f8e5.png",
+        "destinationUrl": "https://anewdawn.vision/?mtm_campaign=BB_GOTVB",
+        "alt": "Cardano - A new dawn, a new cardano - Get Involved",
+        "companyName": "Cardano"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "d699ceb8-01c4-45fc-9611-6cd308a30aa0/caa50696-4552-4879-95fe-133dbe6bd6e7.jpg",
+          "creativeInstanceId": "017fed91-c063-4c57-b4fb-27a3f0a38601",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        }
+      ]
+    }
+  ]
+}

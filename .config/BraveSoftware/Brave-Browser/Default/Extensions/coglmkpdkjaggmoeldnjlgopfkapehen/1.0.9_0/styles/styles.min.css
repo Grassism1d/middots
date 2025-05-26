@@ -1,0 +1,360 @@
+.icon-add-favorites, .icon-file-image, .icon-lmenu-apps, .icon-lmenu-bookmarks {
+    background-image: url(../images/icons_set.png)
+}
+
+.gallery, .leftcol, .radio, .tab_list, .summary > div, .window_list > div {
+    box-sizing: border-box
+}
+
+.icon-file-image {
+    background-position: -11px -70px;
+    width: 15px;
+    height: 12px
+}
+
+.icon-lmenu-greetings, .icon-lmenu-logo, .icon-lmenu-most-visited, .icon-lmenu-music, .icon-lmenu-recently-closed, .icon-lmenu-search {
+    width: 16px;
+    height: 16px;
+    background-image: url(../images/icons_set.png)
+}
+
+.icon-lmenu-greetings {
+    background-position: -16px -54px
+}
+
+.icon-lmenu-logo {
+    background-position: -80px -54px
+}
+
+.icon-lmenu-most-visited {
+    background-position: -64px -54px
+}
+
+.icon-lmenu-music {
+    background-position: -48px -54px
+}
+
+.icon-lmenu-recently-closed {
+    background-position: -32px -54px
+}
+
+.icon-lmenu-search {
+    background-position: 0 -54px
+}
+
+.icon-tmenu-apps {
+    background-position: -37px -35px;
+    width: 18px
+}
+
+.icon-tmenu-bookmarks {
+    background-position: -91px -35px;
+    width: 16px
+}
+
+.icon-tmenu-fav {
+    background-position: -19px -35px;
+    width: 18px
+}
+
+.icon-tmenu-photo {
+    background-position: -55px -35px;
+    width: 18px
+}
+
+.icon-tmenu-volume {
+    background-position: 0 -70px;
+    width: 11px
+}
+
+.icon-tmenu-windows {
+    background-position: -73px -35px;
+    width: 18px
+}
+
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline
+}
+
+.gallery a span.fav .icon, .icon, .radio {
+    vertical-align: middle
+}
+
+ol, ul {
+    list-style: none
+}
+
+blockquote, q {
+    quotes: none
+}
+
+blockquote:after, blockquote:before, q:after, q:before {
+    content: '';
+    content: none
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+* {
+    margin: 0;
+    padding: 0
+}
+
+html {
+    min-height: 100%
+}
+
+a, a:visited {
+    text-decoration: none;
+    outline: 0;
+    color: #54a6de
+}
+
+a:hover {
+    text-decoration: underline
+}
+
+
+#dropbox .preview.done .uploaded, footer {
+    display: block
+}
+
+#dropbox .progressHolder {
+    position: absolute;
+    background-color: #252f38;
+    height: 12px;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    box-shadow: 0 0 2px #000
+}
+
+#dropbox .progress {
+    background-color: #2586d0;
+    position: absolute;
+    height: 100%;
+    left: 0;
+    width: 0;
+    box-shadow: 0 0 1px rgba(255, 255, 255, .4) inset;
+    transition: .25s
+}
+
+#dropbox .preview.done .progress {
+    width: 100% !important
+}
+
+footer {
+    background-color: #151517;
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    bottom: 0;
+    left: 0;
+    z-index: 100000;
+    box-shadow: 0 -1px 2px #171717;
+    -webkit-box-shadow: 0 -1px 2px #171717;
+    -moz-box-shadow: 0 -1px 2px #171717
+}
+
+.bodyBg, footer h2 {
+    position: absolute
+}
+
+footer h2 {
+    font-size: 20px;
+    font-weight: 400;
+    left: 50%;
+    margin-left: -400px;
+    padding: 22px 0;
+    width: 540px;
+    color: #eee
+}
+
+a.tzine:visited, footer a.tzine {
+    background: url(../images/filedrop//tzine.png) right top no-repeat;
+    border: none;
+    text-decoration: none;
+    color: #FCFCFC;
+    font-size: 12px;
+    height: 70px;
+    left: 50%;
+    line-height: 31px;
+    margin: 23px 0 0 110px;
+    position: absolute;
+    top: 0;
+    width: 290px
+}
+
+.clearfix {
+    clear: both
+}
+
+.icon {
+    display: inline-block
+}
+
+body {
+    color: #fff
+}
+
+.radio, .top .btn-group a {
+    display: inline-block
+}
+
+.radio {
+    width: 14px;
+    height: 14px;
+    background: url(../images/radio.png);
+    position: relative
+}
+
+.top.wrapper {
+    width: 100%;
+    position: absolute;
+    left: 0
+}
+
+.radio input[type=radio] {
+    position: absolute;
+    left: -9999em
+}
+
+.radio.active {
+    background: url(../images/radio.png) 0 -14px
+}
+
+.top .btn, .top .btn-group {
+    font-size: 14px;
+    line-height: 34px;
+    font-family: montserratregular, sans-serif;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 17px;
+    border: 1px solid rgba(255, 255, 255, .3);
+    display: inline-block;
+    padding: 0 15px;
+    cursor: pointer;
+    background-color: rgba(255,255,255,0);
+    transition: background-color 0.3s ease-out;
+}
+
+.tab_list li:not(:first-child) {
+    margin-left: 5px
+}
+
+.tab_list li {
+    font: 14px/26px;
+    font-family: montserratregular, sans-serif;
+}
+
+.gallery_box .close {
+    z-index: 12
+}
+
+.tab_list li, .window_list .btn {
+    border-radius: 15px;
+    transition: all .4s ease-in-out;
+    cursor: pointer;
+    display: inline-block;
+    white-space: nowrap;
+    text-align: center
+}
+
+.tab_list li {
+    border: 1px solid rgba(255, 255, 255, .4);
+    padding: 0 15px;
+    float: left
+}
+
+.tab_list li.active, .window_list > div h2 {
+    font: 40px/38px montserratbold;
+    padding: 10px 0 25px
+}
+
+.window_list > div p {
+    color: #949494;
+    font: 14px/20px montserratbold
+}
+
+.window_list > div p .icon {
+    margin: 0 5px
+}
+
+.window_list > div p .btn {
+    margin-left: 10px;
+    text-decoration: none
+}
+
+.window_list .btn {
+    font: 14px/26px;
+    font-family: montserratregular, sans-serif;
+    border: 1px solid rgba(255, 255, 255, .4);
+    padding: 0 15px;
+    color: #fff
+}
+
+#tb2 h2, #tb4 h2 {
+    padding-top: 50px
+}
+
+#tb3 {
+    padding-top: 0
+}
+
+#tb4 label:not(:first-child) {
+    padding-left: 20px
+}
+
+#tb4 .radio {
+    margin-right: 10px
+}
+
+.gallery a, .gallery a img {
+    width: 295px;
+    height: 200px;
+    float: left
+}
+
+.gallery ul li {
+    float: left
+}
+
+.gallery ul li:not(:first-of-type) {
+    margin-left: 10px
+}
+
+.gallery a {
+    display: inline-block;
+    position: relative;
+    margin-bottom: 30px
+}
+
+.gallery a img {
+    position: absolute;
+    left: 0;
+    top: 0
+}
+
+.gallery a span.fav {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background: rgba(0, 0, 0, .4);
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    text-align: center;
+    line-height: 27px
+}
+
+.gallery a.active .fav {
+    background: rgba(0, 0, 0, .8)
+}

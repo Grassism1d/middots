@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"isolation":[],"network_stats":{"srtt":16000},"server":"https://r4---sn-uxa0n-ttjs.gvt1.com"},{"isolation":[],"server":"https://redirector.gvt1.com","supports_spdy":true}],"supports_quic":{"address":"2001:56a:7820:dd00:2033:5ade:fec3:3489","used_quic":true},"version":5},"network_qualities":{"CAISABiAgICA+P////8B":"3G"}}}

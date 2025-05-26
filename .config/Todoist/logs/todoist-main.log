@@ -1,0 +1,213 @@
+[2025-05-18 11:08:41.483] [info]  ======= NEW SESSION =======
+[2025-05-18 11:08:41.493] [info]  App version: 9.14.0
+[2025-05-18 11:08:41.501] [info]  Time: Sun May 18 2025 11:08:41 GMT-0600 (Mountain Daylight Saving Time)
+[2025-05-18 11:08:41.583] [info]  Timezone: America/Edmonton
+[2025-05-18 11:08:41.584] [info]  ===========================
+[2025-05-18 11:08:43.511] [info]  Checking for update
+[2025-05-18 11:08:43.779] [info]  No stored API token
+[2025-05-18 11:08:43.857] [info]  Opening new window
+[2025-05-18 11:08:44.080] [info]  Successfully registered custom protocols
+[2025-05-18 11:08:44.411] [info]  Generated new staging user ID: 791cabbe-93a2-53e3-b7d4-92b872d3826f
+[2025-05-18 11:08:45.080] [info]  Found version 9.15.0 (url: Todoist-linux-9.15.0-x86_64-latest.AppImage)
+[2025-05-18 11:08:45.082] [info]  Downloading update from Todoist-linux-9.15.0-x86_64-latest.AppImage
+[2025-05-18 11:08:45.089] [debug] updater cache dir: /home/mid/.cache/todoist-updater
+[2025-05-18 11:08:45.714] [info]  File has 4010 changed blocks
+[2025-05-18 11:08:45.715] [debug] [
+  {
+    "kind": 0,
+    "start": 0,
+    "end": 159006
+  },
+  {
+    "kind": 1,
+    "start": 159006,
+    "end": 191774
+  },
+  {
+    "kind": 0,
+    "start": 191774,
+    "end": 2231272
+  },
+  {
+    "kind": 1,
+    "start": 2231272,
+    "end": 2306841
+  },
+  {
+    "kind": 0,
+    "start": 2306840,
+    "end": 2787281
+  },
+  {
+    "kind": 1,
+    "start": 2787282,
+    "end": 2816458
+  },
+  {
+    "kind": 0,
+    "start": 2816625,
+    "end": 7412073
+  },
+  {
+    "kind": 1,
+    "start": 7411906,
+    "end": 7459035
+  },
+  {
+    "kind": 0,
+    "start": 7459202,
+    "end": 7501219
+  },
+  {
+    "kind": 1,
+    "start": 7501052,
+    "end": 7518392
+  },
+  {
+    "kind": 0,
+    "start": 7518727,
+    "end": 7546797
+  },
+  {
+    "kind": 1,
+    "start": 7546462,
+    "end": 7558355
+  },
+  {
+    "kind": 0,
+    "start": 7558690,
+    "end": 9943940
+  },
+  {
+    "kind": 1,
+    "start": 9943605,
+    "end": 10062994
+  },
+  {
+    "kind": 0,
+    "start": 10063457,
+    "end": 11059737
+  },
+  {
+    "kind": 1,
+    "start": 11059274,
+    "end": 11185490
+  },
+  {
+    "kind": 0,
+    "start": 11186100,
+    "end": 12804613
+  },
+  {
+    "kind": 1,
+    "start": 12804003,
+    "end": 12845158
+  },
+  {
+    "kind": 0,
+    "start": 12845928,
+    "end": 24371121
+  },
+  {
+    "kind": 1,
+    "start": 24370351,
+    "end": 30591542
+  },
+  {
+    "kind": 0,
+    "start": 30586099,
+    "end": 36582536
+  },
+  {
+    "kind": 1,
+    "start": 36587979,
+    "end": 113489354
+  },
+  {
+    "kind": 0,
+    "start": 113471371,
+    "end": 113890135
+  },
+  {
+    "kind": 1,
+    "start": 113908118,
+    "end": 113926120
+  }
+]
+[2025-05-18 11:08:45.722] [info]  Full: 111,372.98 KB, To download: 81,680.86 KB (73%)
+[2025-05-18 11:08:46.136] [error] Cannot download differentially, fallback to full download: Error: Content-Type "multipart/byteranges" is expected, but got "binary/octet-stream"
+    at ClientRequest.<anonymous> (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/electron-updater/out/differentialDownloader/multipleRangeDownloader.js:80:20)
+    at ClientRequest.emit (node:events:536:35)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118516)
+    at SimpleURLLoaderWrapper.emit (node:events:524:28)
+[2025-05-18 11:08:49.479] [info]  Opening login URL in the browser
+[2025-05-18 11:08:56.467] [info]  New version 9.15.0 has been downloaded to /home/mid/.cache/todoist-updater/pending/Todoist-linux-9.15.0-x86_64-latest.AppImage
+[2025-05-18 11:09:13.601] [info]  ======= NEW SESSION =======
+[2025-05-18 11:09:13.618] [info]  App version: 9.14.0
+[2025-05-18 11:09:13.637] [info]  Time: Sun May 18 2025 11:09:13 GMT-0600 (Mountain Daylight Saving Time)
+[2025-05-18 11:09:13.781] [info]  Timezone: America/Edmonton
+[2025-05-18 11:09:13.782] [info]  ===========================
+[2025-05-18 11:09:15.221] [info]  Received deeplink: com.todoist://oauth2redirect/todoist?code=*****&state=*****&prompt=create
+[2025-05-18 11:09:15.222] [info]  Handling auth deeplink: com.todoist://oauth2redirect/todoist?code=*****&state=*****&prompt=create
+[2025-05-18 11:09:15.655] [info]  Successfully exchanged code for token, opening web app now
+[2025-05-18 11:09:17.289] [info]  Successfully registered custom protocols
+[2025-05-18 11:09:20.929] [info]  Setting web app initialized
+[2025-05-18 11:09:21.539] [info]  Received login IPC message
+[2025-05-18 11:09:21.555] [info]  Safe Storage Encryption is not available
+[2025-05-18 11:09:21.671] [info]  setting experimentalist value to false
+[2025-05-18 11:09:24.433] [info]  ======= NEW SESSION =======
+[2025-05-18 11:09:24.444] [info]  App version: 9.14.0
+[2025-05-18 11:09:24.460] [info]  Time: Sun May 18 2025 11:09:24 GMT-0600 (Mountain Daylight Saving Time)
+[2025-05-18 11:09:24.572] [info]  Timezone: America/Edmonton
+[2025-05-18 11:09:24.572] [info]  ===========================
+[2025-05-18 11:09:26.024] [info]  Received deeplink: com.todoist://oauth2redirect/todoist?code=*****&state=*****&prompt=create
+[2025-05-18 11:09:26.024] [info]  Handling auth deeplink: com.todoist://oauth2redirect/todoist?code=*****&state=*****&prompt=create
+[2025-05-18 11:09:26.026] [warn]  Error during exchanging code for token: Error: no state in memory
+    at PKCEAuthenticator.exchangeCodeForToken (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/@doist/electron-utils/dist/auth/pkce-authenticator.js:63:35)
+    at Object.handleAuthURL (/tmp/.mount_todois9LGfAm/resources/app.asar/webpack/electron/electron.js:1:74793)
+    at Object.handleURL (/tmp/.mount_todois9LGfAm/resources/app.asar/webpack/electron/electron.js:1:71737)
+    at App.<anonymous> (/tmp/.mount_todois9LGfAm/resources/app.asar/webpack/electron/electron.js:1:70552)
+    at App.emit (node:events:536:35)
+    at emitter.emit (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/@sentry/electron/main/integrations/electron-breadcrumbs.js:73:20)
+[2025-05-18 11:09:29.261] [info]  Successfully registered custom protocols
+[2025-05-18 11:31:23.578] [info]  Closing a window
+[2025-05-18 11:31:23.679] [info]  App is quitting
+[2025-05-18 11:31:23.887] [info]  Auto install update on quit
+[2025-05-18 11:31:23.888] [info]  Install: isSilent: true, isForceRunAfter: false
+[2025-05-18 11:31:23.889] [error] Error: Error: EACCES: permission denied, unlink '/opt/todoist-appimage/todoist-appimage.AppImage'
+    at unlinkSync (node:fs:1886:11)
+    at AppImageUpdater.doInstall (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:78:29)
+    at AppImageUpdater.install (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:57:25)
+    at /tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:87:18
+    at App.<anonymous> (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/electron-updater/out/ElectronAppAdapter.js:38:48)
+    at Object.onceWrapper (node:events:639:26)
+    at App.emit (node:events:536:35)
+    at emitter.emit (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/@sentry/electron/main/integrations/electron-breadcrumbs.js:73:20)
+    at App.exitHandler (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/@sentry/electron/main/sessions.js:219:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-18 11:31:23.901] [error] Error: EACCES: permission denied, unlink '/opt/todoist-appimage/todoist-appimage.AppImage'
+    at unlinkSync (node:fs:1886:11)
+    at AppImageUpdater.doInstall (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/electron-updater/out/AppImageUpdater.js:78:29)
+    at AppImageUpdater.install (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:57:25)
+    at /tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/electron-updater/out/BaseUpdater.js:87:18
+    at App.<anonymous> (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/electron-updater/out/ElectronAppAdapter.js:38:48)
+    at Object.onceWrapper (node:events:639:26)
+    at App.emit (node:events:536:35)
+    at emitter.emit (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/@sentry/electron/main/integrations/electron-breadcrumbs.js:73:20)
+    at App.exitHandler (/tmp/.mount_todois9LGfAm/resources/app.asar/node_modules/@sentry/electron/main/sessions.js:219:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-18 21:39:55.989] [info]  ======= NEW SESSION =======
+[2025-05-18 21:39:55.999] [info]  App version: 9.14.0
+[2025-05-18 21:39:56.011] [info]  Time: Sun May 18 2025 21:39:55 GMT-0600 (Mountain Daylight Saving Time)
+[2025-05-18 21:39:56.108] [info]  Timezone: America/Edmonton
+[2025-05-18 21:39:56.108] [info]  ===========================
+[2025-05-18 21:39:58.178] [info]  Checking for update
+[2025-05-18 21:39:58.574] [info]  Opening new window
+[2025-05-18 21:39:58.727] [info]  Successfully registered custom protocols
+[2025-05-18 21:39:59.823] [info]  Closing a window
+[2025-05-18 21:39:59.866] [info]  Closing a window
+[2025-05-18 21:39:59.952] [error] Error: ERR_FAILED (-2) loading 'https://app.todoist.com/app/integrations/desktop/login?token=*****
+[2025-05-18 21:39:59.971] [info]  App is quitting
+[2025-05-18 21:40:00.080] [info]  Found version 9.15.0 (url: Todoist-linux-9.15.0-x86_64-latest.AppImage)
+[2025-05-18 21:40:00.081] [info]  Downloading update from Todoist-linux-9.15.0-x86_64-latest.AppImage
+[2025-05-18 21:40:00.084] [debug] updater cache dir: /home/mid/.cache/todoist-updater

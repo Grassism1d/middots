@@ -1,0 +1,22 @@
+{
+   "action": {
+      "default_popup": "default_popup/index.html"
+   },
+   "content_scripts": [ {
+      "js": [ "js/frontend.js" ],
+      "matches": [ "https://*/*", "http://*/*" ]
+   } ],
+   "description": "Adds 'git clone' to the ssh/https clone url, so you simply can copy and paste it into your terminal.",
+   "icons": {
+      "128": "assets/icons/gl-git-clone-logo.png",
+      "16": "assets/icons/gl-git-clone-logo16x.png",
+      "48": "assets/icons/gl-git-clone-logo48x.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArIKgUvfDgiUdK+sHygTvnDNS8gjHQ7jH6TEPVW4NEdxMWCL73SUUAPNiyOUMeLBwxI+L6MYhQcZb1O6bkIEYAMfbe70ZOiVNB2d7HM15U+zwZ2RfonKWfjT/RjwEqOuUkI7tux5PSaPxXDX+G10W4eyV+0fol0H4/eKiyyWrAxwDZSE3FvPZBIdMYZ1lmGVYzTvNHpcPgBLTPkSEICd1KnyCNMNugzHzNuQ2zoDFuiC9YPq1e7Pr5gh+fL/YnkPKYB1/88qGFZhSKYRXuulXgLxVR6zS5LoqmJguvpYY5cqEadTC+DMJieWpxppmA+pwcVoqBr8T4YY1Ce96Yn044wIDAQAB",
+   "manifest_version": 3,
+   "name": "GL Git Clone",
+   "options_page": "options_page/index.html",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.0"
+}

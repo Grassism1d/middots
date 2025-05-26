@@ -1,0 +1,4 @@
+[2025-03-22 02:47:26.072] [info] Checking for update
+[2025-03-22 02:47:26.492] [info] Generated new staging user ID: 93064a77-1c0b-55f6-a300-ad525aeec102
+[2025-03-22 02:47:28.278] [info] Update for version 2.0.4 is not available (latest version: 2.0.4, downgrade is disallowed).
+[2025-05-07 20:54:29.376] [warn] APPIMAGE env is not defined, current application is not an AppImage

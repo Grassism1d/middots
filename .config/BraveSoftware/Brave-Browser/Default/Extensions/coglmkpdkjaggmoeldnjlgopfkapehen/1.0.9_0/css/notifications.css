@@ -1,0 +1,23 @@
+.gV6pJf.e2G3Fb.cjGgHb.d8Etdd.b30Rkd.LcUz9d /*notifications popup*/ {
+    background-color: #333;
+}
+
+.fEjTrb /*view all notifications from thingie*/ {
+    background-color: #2c2c2c !important;
+}
+
+.wh73ab /*notifications service settings text*/ {
+    color: white;
+}
+
+.JtH6Tc /*notifications 'all caught up' text*/,
+.Vz68Kb /*view all notifications from text*/,
+.gMG7Fd /*'show notifications from'*/ {
+    color: #b9b9b9;
+}
+
+.XSVuue /*notifications google logo*/,
+.xjKiLb > span > svg /*notifications gear & question mark*/,
+.ajgU6 /*'show notifications from' arrow*/ {
+    fill: #b9b9b9 !important;
+}

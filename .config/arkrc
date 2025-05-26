@@ -1,0 +1,14 @@
+[ExtractDialog]
+1366x768 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/Downloads/,$HOME/.themes/,$HOME/Music/,/run/media/mid/0C46-4374/,$HOME/,$HOME/Downloads/Telegram Desktop/,/run/media/mid/329608C82F0950D2/AHH/,/run/media/mid/329608C82F0950D2/,/run/media/mid/429A9510493DBFB2/tab a7/TAB stock/,/run/media/mid/329608C82F0950D2/T-500/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+splitterSizes=212,106
+
+[Viewer]
+StatusBar=Disabled

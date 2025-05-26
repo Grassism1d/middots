@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-D01 MicroApps</Name>
+    <Directory>wine-Programs-D01 MicroApps.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-D01 MicroApps-Boot Animation Factory</Name>
+    <Directory>wine-Programs-D01 MicroApps-Boot Animation Factory.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-D01 MicroApps-Boot Animation Factory-Boot Animation Factory.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>

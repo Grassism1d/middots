@@ -1,0 +1,26 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/goodtunes">
+          <value>
+            <RecentProjectMetaInfo frameTitle="goodtunes – activity_main.xml [goodtunes.app.main]" opened="true" projectWorkspaceId="2uVklfIts5Bi15xbYeR8Gno4FvL">
+              <option name="activationTimestamp" value="1743319691220" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-243.22562.218.2431.13114758" />
+              <option name="buildTimestamp" value="1740446100000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="20" y="80" width="1326" height="668" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1743319141622" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/goodtunes" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

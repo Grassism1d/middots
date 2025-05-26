@@ -1,0 +1,14 @@
+{
+   "addToBlacklist": {
+      "message": "Add to blacklist"
+   },
+   "extDesc": {
+      "message": "Cute and well-tested dark themes for websites"
+   },
+   "extName": {
+      "message": "The Black Cat"
+   },
+   "removeFromBlacklist": {
+      "message": "Remove from blacklist"
+   }
+}

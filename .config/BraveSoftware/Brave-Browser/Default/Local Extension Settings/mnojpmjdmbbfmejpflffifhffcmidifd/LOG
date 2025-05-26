@@ -1,0 +1,25 @@
+2025/05/25-22:51:59.345 2db3 Reusing MANIFEST /home/mid/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2025/05/25-22:51:59.348 2db3 Recovering log #563
+2025/05/25-22:51:59.350 2db3 Reusing old log /home/mid/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000563.log 
+2025/05/25-22:57:10.781 2db4 Level-0 table #567: started
+2025/05/25-22:57:10.884 2db4 Level-0 table #567: 342708 bytes OK
+2025/05/25-22:57:10.901 2db4 Delete type=0 #563
+2025/05/25-23:03:01.095 2db4 Compacting 2@0 + 1@1 files
+2025/05/25-23:03:01.116 2db4 Generated table #568@0: 36 keys, 73418 bytes
+2025/05/25-23:03:01.116 2db4 Compacted 2@0 + 1@1 files => 73418 bytes
+2025/05/25-23:03:01.119 2db4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-23:03:01.119 2db4 Delete type=2 #567
+2025/05/25-23:03:01.119 2db4 Delete type=2 #564
+2025/05/25-23:03:01.120 2db4 Delete type=2 #562
+2025/05/25-23:22:02.011 2db4 Compacting 1@1 + 1@2 files
+2025/05/25-23:22:02.032 2db4 Generated table #569@1: 17 keys, 72837 bytes
+2025/05/25-23:22:02.032 2db4 Compacted 1@1 + 1@2 files => 72837 bytes
+2025/05/25-23:22:02.036 2db4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/25-23:22:02.036 2db4 Delete type=2 #568
+2025/05/25-23:22:02.036 2db4 Delete type=2 #559
+2025/05/25-23:31:47.151 2db4 Level-0 table #571: started
+2025/05/25-23:31:47.172 2db4 Level-0 table #571: 343024 bytes OK
+2025/05/25-23:31:47.176 2db4 Delete type=0 #566
+2025/05/25-23:37:37.969 2db3 Level-0 table #573: started
+2025/05/25-23:37:37.995 2db3 Level-0 table #573: 345380 bytes OK
+2025/05/25-23:37:37.999 2db3 Delete type=0 #570

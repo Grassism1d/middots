@@ -1,0 +1,174 @@
+
+/* Backgrounds */
+  body, .frame, .ita-hwt-jfk-standard, .history-top-header .history-top-bar,.history-container .info-bar, .phrasebook-top-header, .phrasebook-container .nav-bar, .gb_fd .gb_F
+  {
+    background: #131719;
+  }
+
+  .gb_sa, .language-list-toolbar, .tVwEyf:hover:not(:disabled), .tVwEyf:focus:not(:disabled), .Wf5e9, .gt-cc-t
+  {
+    background: #1b2022 !important;
+  }
+
+  .swap.jfk-button, .ls-wrap, .swap-wrap, .source-wrap, body:not(.with-lang-list) .results-container.empty, .source-input, .orig, .gt-spell-correct-message, .gb_xc, .ita-kd-dropdown-menu, .vk-box, .vk-btn, .homepage.translate-text .input-button.text-icon, .homepage.translate-docs .input-button.documents-icon, .select-file-page, .language-list, .language-list-search-box, #sl_list-search-box, #tl_list-search-box, .language_list_sl_list, .language_list_tl_list, .language_list_item_wrapper, .language_list_section, .language-list-toolbar .language-list-search-button, .ita-hwt-ime, .ita-hwt-buttons, .ita-hwt-candidates, .history-container, .phrasebook-container, .phrasebook-container:not(.empty-search-query) .phrasebook-entry.browsed, .goog-menu, .displaying-saved-page .phrasebook-page, .gt-is-mobile, .gt-lc.gt-lc-mobile .gt-cd, .gt-baf-word-selected, .gb_0.gb_kd:hover, .gt-lc.gt-lc-mobile.show-as-one-card, .notification-container
+  {
+    background: #1b2022;
+  }
+
+  .results-container, .result, .gt-edit, .contribute-target, .vk-btn.vk-sf-h, .vk-btn.vk-sf-s, .st-stp1-epu-text, .select-file-page .button, .language_list_item_wrapper:hover, .language_list_item_wrapper:focus, .language_list_item_wrapper.item-selected, .file-selected-section .file-holder, .ita-hwt-candidate-hover, .ita-hwt-jfk-standard.ita-hwt-jfk-hover, .browsed, .phrasebook-container .language-chip, .phrasebook-container .language-chip:hover, .phrasebook-container .language-pair-container .language-chip.selected, .language-chip:focus, .language-chip:focus-within, .phrasebook-container .phrasebook-features .goog-menuitem-highlight, .phrasebook-container .phrasebook-features .goog-menuitem:hover, .gt-is-itm-hover, .gt-lc-mobile .gt-baf-word-clickable:hover, .gt-lc-mobile .gt-baf-hl, .gt-lc.gt-lc-mobile .gt-cd-cl, .gt-lc.gt-lc-mobile .gt-cd-ncl
+  {
+    background: #323639;
+  }
+
+  .ita-kd-menuitem-hover
+  {
+    background: #323639 !important;
+  }
+/* Colors */
+  .gb_sa svg, .gb_xc svg, .gb_0c .gb_6d, .gb_Jc .gb_6d, .ft-icon-txt, .sl-sugg .goog-inline-block.jfk-button, .tl-sugg .goog-inline-block.jfk-button, .gt-spell-correct-message, .orig, .results-container:not(.empty) .placeholder, .result-dict-wrapper .translation, .contribute-target, #st-buttons .jfk-button, .gb_Lc .gb_Pc, .gb_Mc, .ita-kd-menuitem, .vk-cap, .vk-t, .st-stp1-epu-text, .input-button .text, .select-file-section .choose-document-prompt, .select-file-section .upload-filetypes-prompt, .language-list-search-box input, .language_list_item_language_name, .detect_language .language_list_item, .language-list-toolbar .language-list-label, .file-selected-section .file-label, .ita-hwt-candidate, .history-entry .tl-output, .history-top-header .title, .history-container .history-features .delete-all-button, .phrasebook-top-header .title,.phrasebook-container .nav-barm, .phrasebook-container .phrasebook-features .sort-button .goog-toolbar-menu-button-caption, .phrasebook-container .phrasebook-features .goog-menu, .xbgmf, .QxBPz, .yxwiBd, .Um2q2e, .uZVCx, .tVwEyf:not(:disabled):not(:disabled), .tVwEyf:focus:not(:disabled):not(:disabled), .VfPpkd-Bz112c-LgbsSe svg, .VfPpkd-Bz112c-LgbsSe img, .EoTmwb, .Xxlgbc, .s6Evgf, .gt-is-mobile .gt-is-sg, .gt-is-tr, .gt-def-row, .gt-lc.gt-lc-mobile .cd-expand-label, .gt-lc.gt-lc-mobile .gt-ex-text, .gt-lc-mobile .gt-baf-hl, .gt-lc-mobile .gt-baf-word-selected .gt-baf-word-clickable, .gt-lc-mobile div.gt-baf-translations, .gt-cd-pos-pop, .gt-baf-word-clickable, .gt-lc.gt-lc-mobile .gt-cd-cl, .gt-lc.gt-lc-mobile .gt-cd-ncl, .gb_td, .gb_dd, .gb_0.gb_kd.gb_ld, .gt-lc.gt-lc-mobile .gt-def-example, .gt-def-synonym, .result-transliteration-container .transliteration-content, .result-transliteration-container .truncate-link, .gt-cc-t .gt-ct-text, .gb_sa svg, .gb_xc svg, .gb_0c .gb_7d, .gb_Jc .gb_7d, .gb_sa svg, .gb_xc svg, .gb_0c .gb_8d, .gb_Jc .gb_8d, .notification-container .title
+  {
+    color: white;
+  }
+
+  .ita-kd-menuitem-hover, .ita-hwt-jfk, .phrasebook-container .language-chip
+  {
+    color: white !important;
+  }
+
+  .notification-container .notification-body
+  {
+    color: #ffffff87;
+  }
+
+  .sl-sugg .goog-inline-block.jfk-button-checked, .tl-sugg .goog-inline-block.jfk-button-checked
+  {
+    color: #4285f4 !important;
+  }
+/* Border colors */
+  .ls-wrap, .gb_Ic:not(:last-child), .ita-kd-dropdown-menu, .vk-box, .vk-btn, .vk-btn.vk-sf-h, .vk-btn.vk-sf-s, .ita-kd-separator, .language-list-toolbar, .ita-hwt-ime-st, .ita-hwt-buttons, .ita-hwt-candidates, .ita-hwt-candidate, .history-top-header, .history-entry, .goog-menu, .gt-is-mobile, .gt-is-mobile .gt-is-ld
+  {
+    border-color: #131719;
+  }
+
+  .header-button, .homepage.translate-text .input-button.text-icon, .homepage.translate-docs .input-button.documents-icon, .QxBPz, .yxwiBd, .VfPpkd-LgbsSe-OWXEXe-INsAgc .VfPpkd-Jh9lGc, .Wf5e9, .Xxlgbc, .gt-lc.gt-lc-mobile .gt-cd, .gt-lc.gt-lc-mobile .cd-expand-button, .gt-lc.gt-lc-mobile.show-as-one-card
+  {
+    border-color: #1b2022;
+  }
+
+  .ita-hwt-jfk-standard.ita-hwt-jfk-hover, .phrasebook-container .language-chip, .phrasebook-container .language-chip:hover, .phrasebook-container .language-pair-container .language-chip.selected, .language-chip:focus, .language-chip:focus-within,.gt-lc.gt-lc-mobile .gt-cd-cl, .gt-lc.gt-lc-mobile .gt-cd-ncl, .gt-lc.show-as-one-card .gt-cc-r, .gt-lc.gt-lc-mobile.show-as-one-card .gt-cc
+  {
+    border-color: #323639;
+  }
+/* Other */ 
+  .ls-wrap .sugg-fade
+  {
+    background: -webkit-linear-gradient(left,rgba(255,255,255,0),#1b2022);
+  }
+
+  .swap>.jfk-button-img, .src-tts .jfk-button-img, .speech-button .jfk-button-img, .clear .jfk-button-img, .starbutton .jfk-button-img, .copybutton .jfk-button-img, .ttsbutton-res .jfk-button-img, .vk-t-btn, .gt-clear .jfk-button-img, .language_list_item_wrapper.item-emphasized:not(.item-selected) .language_list_item_icon, .ita-hwt-grip, .ita-kd-img, .history-top-header .close-button, .phrasebook-top-header .close-button, .gt-is-mobile .gt-is-ca, .trans-verified-button, .gt-lc.gt-lc-mobile .gt-def-num, .gt-cc-t .gt-cc-bc .big-clear-button .jfk-button-img, .gt-cc-t .gt-cc-tc .gt-ct-tts.trans-listen-button .jfk-button-img
+  {
+    filter: invert(1);
+  }
+
+  .ft-icon-oval, .trans-edit, .trans-target-highlight, .ls-wrap .sl-sugg .goog-inline-block.jfk-button:focus, .ls-wrap .tl-sugg .goog-inline-block.jfk-button:focus, .ls-wrap .sl-more:focus, .ls-wrap .tl-more:focus, .ls-wrap .lang-btn:focus-within, .ls-wrap .swap:focus, .language-picker-toolbar-image:focus, .language-list-search-button:focus .searchbutton-image, .language-list-back-button:focus
+  {
+    background-color: #1b2022;
+  }
+
+  .ita-hwt-close
+  {
+    background-color: #e2dddb;
+  }
+
+  .gt-lc.gt-lc-mobile .gt-cc-r-i
+  {
+    background: transparent !important;
+  }
+
+  .vk-cap.vk-sf-b, .input-button.documents-icon::before, .input-button.text-icon::before, .detect_language_row_icon
+  {
+    filter: brightness(10);
+  }
+
+  .gt-lc.gt-lc-mobile .gt-ex-quote
+  {
+    fill: white;
+  }
+
+  .notification-container .dismiss-button:hover
+  {
+    background-image: -webkit-image-set(url(https://ssl.gstatic.com/images/icons/material/system_gm/1x/close_gm_grey_24dp.png) 1x,url(https://ssl.gstatic.com/images/icons/material/system_gm/2x/close_gm_grey_24dp.png) 2x);
+  }
+/* App launcher and account chooser */
+  .gb_vb::after
+  {
+    content: 'Dark Theme by Lekrkoekj - https://lekrkoekj.github.io';
+    font-size: 12px;
+    white-space: pre;
+    color: white;
+  }
+
+  .gb_qa svg, .gb_Ec svg, .gb_6c .gb_ce, .gb_Qc .gb_ce, .modal-dialog-title-text, .gt-card-ttl-txt
+  {
+    color: white !Important;
+  }
+
+  .gb_4a.gb_5a, .gb_l .gb_mb, .gb_l .gb_8b, .gb_Eb, .gb_sb.gb_sb, .gb_Hb.gb_Hb, .gb_Ib.gb_Ib, .gb_t, .gb_K, #gb a.gb_K, #gb a.gb_K:visited, #gb a.gb_K:active, #gb a.gb_L, #gb a.gb_L:visited, .gb_l .gb_ob, .gb_ub.gb_ub, .gb_yb.gb_yb, .gb_Fb.gb_Fb, a.gb_O, a.gb_P, .gb_sa svg, .gb_xc svg, .gb_0c .gb_6d, .gb_Jc .gb_6d, .NQV3m, .Rq5Gcb
+  {
+    color: white;
+  }
+
+  .gb_F, .gb_J, .NQV3m
+  {
+    background: #131719;
+  }
+
+  .gb_ed .gb_F
+  {
+    background: #131719 !important;
+  }
+
+  .gb_Ec, .gb_Xe, .gb_Xe.gb_Ze, .gb_ia, .gb_4a.gb_5a, .gb_Sb>.gb_Rb:hover, .gb_sb.gb_sb, .gb_Hb.gb_Hb, .gb_Ib.gb_Ib, .gb_K, .gb_k:not(.gb_l):hover .gb_t, .gb_k:hover a, .gb_ub.gb_ub, .gb_wb:hover, .gb_Fb.gb_Fb, a.gb_O, a.gb_P, .EHzcec
+  {
+    background: #1b2022;
+  }
+
+  .gb_l.gb_k:hover a, .gb_Re
+  {
+    background: #1b2022 !important;
+  }
+
+  .gb_ia:hover, .gb_Hb.gb_Hb:hover, .gb_sb.gb_sb:hover, .gb_ia:focus,.gb_ub:hover, .gb_Pb>.gb_Ob:hover, .gb_yb:hover, .gb_Fb.gb_Fb:hover, .tX9u1b:hover, .tX9u1b:hover .Rq5Gcb, .NQV3m:hover
+  {
+    background: #323639;
+  }
+
+  .gb_yb:hover, .gb_P:hover, .gb_O:hover
+  {
+    background: #323639 !important;
+  }
+
+  .gb_ne
+  {
+    background: transparent !important;
+  }
+
+  .gb_Xe, .gb_Xe.gb_Ze, .gb_ia, .gb_Mb, .gb_Fb, .gb_sb.gb_sb, .gb_Hb.gb_Hb, .gb_Ib.gb_Ib, .gb_k:hover a, .gb_L, .gb_ub.gb_ub, .gb_Eb, .gb_Fb.gb_Fb, .gb_l .gb_L, a.gb_O, a.gb_P
+  {
+    border-color: #1b2022;
+  }
+
+  .gb_ia:hover, .gb_Hb.gb_Hb:hover, .gb_Ib.gb_Ib:hover, .gb_sb.gb_sb:hover, .gb_ia:focus, .gb_ub:hover, .gb_Fb.gb_Fb:hover, .gb_P:hover, .gb_O:hover, .dGrefb, .NQV3m:hover
+  {
+    border-color: #323639;
+  }
+
+  .NQV3m
+  {
+    border-color: #131719;
+  }
+
+  .gb_if, .gb_cf
+  {
+    filter: invert(1);
+  }

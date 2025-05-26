@@ -1,0 +1,18 @@
+{
+	"general-logs": {
+		"currentLogFile": "/home/mid/.config/heroic/logs/2025-05-02T21_30_16-heroic.log",
+		"lastLogFile": "",
+		"legendaryLogFile": "/home/mid/.config/heroic/logs/2025-05-02T21_30_16-legendary.log",
+		"gogdlLogFile": "/home/mid/.config/heroic/logs/2025-05-02T21_30_16-gogdl.log",
+		"nileLogFile": "/home/mid/.config/heroic/logs/2025-05-02T21_30_16-nile.log"
+	},
+	"userHome": "/home/mid",
+	"language": "en",
+	"window-props": {
+		"x": 1035,
+		"y": 418,
+		"width": 311,
+		"height": 330,
+		"maximized": false
+	}
+}

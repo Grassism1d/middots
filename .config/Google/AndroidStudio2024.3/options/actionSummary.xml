@@ -1,0 +1,76 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Debug">
+      <i c="1" l="1742341666993" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="62" l="1743319297989" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1742182423221" />
+    </e>
+    <e n="EditorEnter">
+      <i c="2" l="1743319348038" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1743319247210" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1743319614650" />
+    </e>
+    <e n="EditorRight">
+      <i c="19" l="1743319246700" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1743319237747" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1743319239152" />
+    </e>
+    <e n="EditorUp">
+      <i c="7" l="1743319244958" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1743319183283" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1742341672222" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1742341687954" />
+    </e>
+    <e n="SaveAll">
+      <i c="2" l="1743319353044" />
+    </e>
+    <e n="SpeedSearch">
+      <i c="1" l="1742341728704" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="5" l="1742182574279" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="3" l="1742179063938" />
+    </e>
+    <e n="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction">
+      <i c="1" l="1743319622098" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
+      <i c="1" l="1743319187669" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1742179221296" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1742341335553" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="3" l="1742179062059" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1743319224262" />
+    </e>
+    <e n="org.jetbrains.android.actions.CreateResourceFileActionGroup$2">
+      <i c="1" l="1743319603123" />
+    </e>
+  </component>
+</application>
