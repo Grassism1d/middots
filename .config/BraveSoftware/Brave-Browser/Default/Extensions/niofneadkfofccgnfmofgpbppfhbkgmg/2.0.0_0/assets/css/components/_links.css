@@ -1,9 +1,0 @@
-a {
-    color: var(--primary-color);
-    transition: opacity 0.25s ease-in-out;
-    text-decoration: unset;
-}
-
-a:hover {
-    opacity: 0.8;
-}
