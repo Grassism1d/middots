@@ -1,6 +1,0 @@
-2025/05/16-14:45:10.678 42af Reusing MANIFEST /home/mid/.config/BeeperTexts/Local Storage/leveldb/MANIFEST-000001
-2025/05/16-14:45:10.679 42af Recovering log #3
-2025/05/16-14:45:10.681 42af Reusing old log /home/mid/.config/BeeperTexts/Local Storage/leveldb/000003.log 
-2025/05/16-14:46:12.944 42af Level-0 table #5: started
-2025/05/16-14:46:12.950 42af Level-0 table #5: 19809 bytes OK
-2025/05/16-14:46:12.952 42af Delete type=0 #3
