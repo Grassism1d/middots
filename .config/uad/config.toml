@@ -1,9 +1,0 @@
-[general]
-theme = "Auto (follow system theme)"
-expert_mode = false
-backup_folder = "/home/mid/.cache/uad/backups"
-
-[[devices]]
-device_id = "RF8X90E73RX"
-disable_mode = false
-multi_user_mode = true
